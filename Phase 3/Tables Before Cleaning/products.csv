@@ -1,0 +1,121 @@
+product_id,product_name,brand,category,unit_cost,unit_price,product_rating
+1,"Galaxy A05",Samsung,Smartphones,6378.81,7820.51,4.47
+2,"Galaxy A15",Samsung,Smartphones,8926.22,10411.61,3.29
+3,"Galaxy A25",Samsung,Smartphones,12218.97,14825.71,1.93
+4,"GALAXY A35",Samsung,Smartphones,16284.04,19059.59,3.17
+5,"Galaxy A55",Samsung,Smartphones,18268.86,23034.18,4.13
+6,"Galaxy S23",Samsung,Smartphones,28061.70,34593.40,4.48
+7,"Galaxy S24",Samsung,Smartphones,36859.80,43638.93,3.72
+8,"Galaxy S24 Ultra",Samsung,Smartphones,46147.25,54416.24,3.32
+9,"Galaxy Z Flip5",Samsung,Smartphones,44905.39,52332.04,3.48
+10,"iPhone 13",Apple,Smartphones,24375.23,28984.82,3.20
+11,"iPhone 14",Apple,Smartphones,29328.87,37366.11,4.53
+12,"iPhone 15",Apple,Smartphones,38153.08,50160.12,4.24
+13,"iPhone 15 Pro",Apple,Smartphones,50244.66,67300.50,3.38
+14,"iPhone 15 Pro Max",Apple,Smartphones,67687.25,81785.80,4.32
+15,"Redmi Note 12",Xiaomi,Smartphones,7172.96,8716.42,3.53
+16,"Redmi Note 13",Xiaomi,Smartphones,8227.78,10389.79,4.13
+17,"Redmi 13C",Xiaomi,Smartphones,5453.00,6774.40,4.35
+18,"Xiaomi 13T",Xiaomi,Smartphones,22325.13,25982.69,4.61
+19,"Poco X6",Xiaomi,Smartphones,12417.54,15032.26,3.48
+20,"Nova 11",Huawei,Smartphones,15367.23,17899.64,4.88
+21,"Nova Y70",Huawei,Smartphones,8068.73,10769.33,4.65
+22,P60,Huawei,Smartphones,29953.60,36600.48,4.70
+23,"Inspiron 15",Dell,Laptops,19546.85,23449.30,4.26
+24,"Inspiron 14",DELL,Laptops,17177.19,23132.89,4.29
+25,"Vostro 3510",Dell,Laptops,21052.74,25300.08,3.97
+26,"XPS 13",Dell,Laptops,47501.32,56726.38,3.71
+27,"Latitude 5420",Dell,Laptops,30069.80,34727.99,3.20
+28,"Pavilion 15",HP,Laptops,18580.35,24863.02,3.27
+29,"Pavilion x360",HP,Laptops,25921.35,32511.15,3.66
+30,"EliteBook 840",HP,LAPTOPS,35913.46,43457.18,4.54
+31,"Victus 15",HP,Laptops,30062.84,35560.46,4.87
+32,"ProBook 450",HP,Laptops,25759.55,31328.71,3.81
+33,"IdeaPad 3",Lenovo,Laptops,17519.04,20799.96,4.25
+34,"IdeaPad Slim 5",Lenovo,Laptops,22798.30,28176.66,3.01
+35,"ThinkPad E14"," Lenovo",Laptops,30761.63,40351.44,3.12
+36,"Legion 5",Lenovo,Laptops,39576.59,46415.07,4.27
+37,"Yoga Slim 7",Lenovo,Laptops,33581.82,42724.86,4.12
+38,"VivoBook 15",ASUS,Laptops,18469.45,24245.73,4.34
+39,"ZenBook 14",ASUS,Laptops,33032.66,40056.63,3.45
+40,"TUF Gaming F15",ASUS,Laptops,36854.06,46147.36,3.79
+41,"Aspire 5",Acer,Laptops,18692.16,23315.37,4.02
+42,"Nitro 5",Acer,LAPTOPS,33329.48,41592.80,3.27
+43,"Galaxy Tab A9",Samsung,Tablets,7798.28,10452.57,3.92
+44,"Galaxy Tab S9",Samsung,Tablets,26819.15,33553.11,3.94
+45,"Galaxy Tab A8",Samsung,Tablets,9920.28,12288.95,3.32
+46,"iPad 10th Gen",Apple,"Tablets ",18876.27,22745.35,4.02
+47,"iPad Air",Apple,Tablets,28748.63,33711.86,3.22
+48,"iPad Mini",Apple,Tablets,24168.17,31451.42,4.44
+49,"Tab M10 ",Lenovo,Tablets,7484.66,8760.67,4.58
+50,"Tab P11",Lenovo,Tablets,10657.04,14093.30,3.17
+51,"MatePad 11",Huawei,Tablets,12939.08,15493.11,4.54
+52,"MatePad T10",Huawei,Tablets,6791.57,8639.23,3.81
+53,"Redmi Pad SE",Xiaomi,Tablets,8220.29,10777.52,4.08
+54,"Pad 6",Xiaomi,Tablets,14616.31,17754.88,4.34
+55,24MP60G,LG,Monitors,5452.40,6831.22,4.71
+56,27GP850,LG,monitors,10925.54,14281.19,4.75
+57,"UltraGear 27GN800",LG,Monitors,8449.42,10919.01,4.57
+58,22MK400H,LG,Monitors,3591.57,4545.08,3.51
+59,"Odyssey G5",Samsung,Monitors,8184.85,10639.98,4.32
+60,"ViewFinity S6",Samsung,Monitors,12875.64,15649.80,3.00
+61,S24R350,Samsung,Monitors,4930.93,6122.69,4.26
+62,SE2422H,Dell,Monitors,5595.68,6880.13,4.84
+63,S2721QS," Dell",Monitors,8683.37,11424.44,3.64
+64,P2422H,Dell,Monitors,6362.40,8286.71,3.09
+65,"TUF Gaming VG249Q",ASUS,Monitors,7226.05,9653.18,3.30
+66,"ProArt PA278QV",ASUS,Monitors,12005.80,15460.09,3.25
+67,VZ239HE,ASUS,Monitors,4499.54,5963.33,3.18
+68,VA24EHE,ASUS,Monitors,3897.48,5186.61,3.31
+69,"Tune 510BT",JBL,Headphones,1490.40,1939.08,3.82
+70,"Tune 770NC",JBL,Headphones,3200.76,3986.10,3.25
+71,"Live 460NC",JBL,headphones,2805.57,3616.71,4.55
+72,"Wave Buds",JBL,Headphones,1691.08,2022.18,3.17
+73,"Endurance Peak 3",JBL,Headphones,1956.68,2594.94,3.26
+74,"Tune 130NC",JBL,Headphones,2320.79,2983.21,3.13
+75,"Tune Flex",JBL,Headphones,2420.05,3132.72,4.19
+76,WH-CH520,Sony,Headphones,2769.65,3430.15,3.41
+77,WF-C500,Sony,Headphones,3051.47,3869.00,3.73
+78,WH-1000XM5,Sony,Headphones,15373.23,18441.07,4.22
+79,MDR-ZX310,Sony,Headphones,894.74,1152.51,4.61
+80,WF-1000XM4,Sony,Headphones,9910.89,12600.56,3.36
+81,"Soundcore Life Q30",Anker,Headphones,3948.66,5167.83,3.45
+82,"Soundcore Space One",anker,Headphones,5199.67,6597.27,4.00
+83,"Soundcore P20i",Anker,Headphones,1016.05,1338.95,3.80
+84,"Soundcore Life P3",Anker,Headphones,3057.64,4099.96,1.59
+85,"AirPods 3rd Gen",Apple,Headphones,8823.61,11775.25,4.80
+86,"AirPods Pro 2",Apple,Headphones,13757.14,17199.31,3.79
+87,"AirPods Max",Apple,Headphones,24562.15,30887.67,3.29
+88,"AirPods 2nd Gen",Apple,HEADPHONES,7164.70,8530.57,4.54
+89,"MX Master 3S",Logitech,"Keyboards & Mice",4448.14,5504.56,4.81
+90,"MX Keys",Logitech,"Keyboards & Mice",4568.97,5651.34,3.86
+91,"G102 Lightsync",Logitech,"Keyboards & Mice",1099.82,1409.54,1.69
+92,"G304 Wireless Mouse",Logitech,"Keyboards & Mice",1465.53,1964.69,3.99
+93,"K380 Multi-Device",Logitech,"Keyboards & Mice",1366.79,1606.51,4.48
+94,"MK270 Combo",Logitech,"Keyboards & Mice",1131.43,1307.79,4.53
+95,"M185 Wireless Mouse",Logitech,"Keyboards & Mice",602.59,810.49,4.19
+96,"150 Wireless Combo",HP,"Keyboards & Mice",713.86,943.63,3.32
+97,"K200 Wireless Mouse",HP,"Keyboards & Mice",534.14,686.28,3.22
+98,"M120 Wired Mouse",HP,"Keyboards & Mice",254.40,336.47,3.46
+99,"ROG Strix Scope",ASUS,"Keyboards & Mice",3844.16,4558.37,2.62
+100,"ROG Gladius III Mouse",ASUS," Keyboards & Mice",2734.71,3280.70,4.74
+101,"Bloody B820R ",A4Tech,"Keyboards & Mice",1135.82,1459.15,3.10
+102,"FG10 Wireless Combo",A4Tech,"Keyboards & Mice",613.79,762.95,3.54
+103,"SlimStar 8006",Genius,"Keyboards & Mice",517.28,642.13,3.70
+104,"DX-110 Mouse",Genius,"Keyboards & Mice",239.17,286.65,3.70
+105,"KB-117 Keyboard",Genius,"Keyboards & Mice",293.25,369.29,4.51
+106,"NetScroll Mouse",Genius,"Keyboards & Mice",201.91,254.07,4.21
+107,"PowerCore 10000",Anker,Accessories,1285.30,1478.47,4.25
+108,"65W Charger",Anker,Accessories,1441.58,1810.57,3.45
+109,"PowerLine III Cable",Anker,Accessories,445.88,525.46,1.82
+110,"Soundcore Mini Speaker",Anker,Accessories,1110.25,1359.50,4.85
+111,"Mi Power Bank 3",Xiaomi,Accessories,976.36,1247.24,3.75
+112,"Mi Bluetooth Speaker",Xiaomi,Accessories,808.75,1086.02,3.45
+113,"C270 Webcam",Logitech,Accessories,1277.81,1569.91,4.58
+114,"C920 Webcam",Logitech,Accessories,2763.17,3218.92,3.39
+115,"USB-C Hub",UGreen,Accessories,946.62,1119.73,3.89
+116,"100W Charger",UGreen,Accessories,1643.31,2142.99,3.86
+117,"25W Fast Charger",Samsung,Accessories,718.08,941.78,3.58
+118,"Wireless Charger Pad",Samsung,Accessories,910.08,1198.74,3.62
+119,"Go 3 Speaker",JBL,Accessories,1590.52,1955.14,3.09
+120,"Clip 4 Speaker",JBL,Accessories,1512.43,1861.62,3.86

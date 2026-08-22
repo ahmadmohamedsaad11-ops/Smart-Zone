@@ -1,0 +1,19 @@
+employee_id,name,gender,hire_date,job_title,store_id
+1,"Sahar Metwally",Female,2025-09-17,"Senior Sales Associate",1
+2,"Omar Youssef",Male,2023-07-26,"Senior Sales Associate",1
+3,"Reem Emad",Female,2024-05-07,"Senior Sales Associate",1
+4,"Youssef Raafat",Male,2024-01-23,"Sales Specialist",1
+5,"Enas Ahmed",Female,2024-07-21,"Sales Associate",1
+6,"Nermin Hatem",Female,2025-01-23,"Sales Specialist",1
+7,"Gomaa Raafat",Male,2025-08-15,"Store Supervisor",1
+8,"Tamer Hatem",Male,2024-04-21,"Senior Sales Associate",1
+9,"Shaimaa Adel",Female,2023-12-15,"Sales Specialist",2
+10,"Farouk Raafat",Male,2024-10-16,"Sales Associate",2
+11,"Fatma Sameh",Female,2024-07-23,"Senior Sales Associate",2
+12,"Shorouk Youssef",Female,2024-04-02,"Sales Associate",2
+13,"Ibrahim Ashraf",Male,2025-04-16,"Store Supervisor",2
+14,"Magdy Zidan",Male,2025-06-04,"Sales Specialist",2
+15,"Tamer Ehab",Male,2024-03-12,"Senior Sales Associate",3
+16,"Asmaa Metwally",Female,2024-12-28,"Senior Sales Associate",3
+17,"Amgad Wael",Male,2025-03-25,"Store Supervisor",3
+18,"Osama Wael",Male,2024-11-09,"Sales Associate",3

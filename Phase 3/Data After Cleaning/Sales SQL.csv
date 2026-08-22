@@ -1,0 +1,1201 @@
+sale_id,sale_date,payment_method,order_status,customer_id,store_id,employee_id
+1,1/25/2026,Credit Card,Pending,216,1,7
+2,4/27/2026,Cash,Completed,285,1,2
+3,5/29/2026,Debit Card,Pending,28,1,5
+4,6/17/2026,Credit Card,Pending,212,1,5
+5,1/29/2026,Mobile Wallet,Completed,59,3,15
+6,6/28/2026,Installment,Completed,80,3,15
+7,6/15/2026,Debit Card,Pending,155,1,7
+8,5/25/2026,Cash,Cancelled,67,1,6
+9,6/5/2026,Mobile Wallet,Completed,207,1,8
+10,2/8/2026,Installment,Completed,163,1,6
+11,4/5/2026,Mobile Wallet,Completed,67,1,7
+12,6/9/2026,Installment,Returned,240,3,17
+13,6/19/2026,Cash,Completed,115,3,18
+14,5/4/2026,Installment,Returned,53,1,3
+15,4/11/2026,Credit Card,Cancelled,2,2,13
+16,1/1/2026,Mobile Wallet,Pending,185,2,10
+17,5/16/2026,Debit Card,Completed,74,2,12
+18,1/21/2026,Debit Card,Completed,318,2,12
+19,3/9/2026,Cash,Pending,321,1,7
+20,5/16/2026,Mobile Wallet,Returned,347,1,1
+21,4/4/2026,Unknown,Unknown,103,2,10
+22,2/3/2026,Installment,Returned,2,1,8
+23,6/26/2026,Debit Card,Returned,42,1,8
+24,6/19/2026,Installment,Completed,155,1,1
+25,6/15/2026,Mobile Wallet,Completed,251,1,6
+26,2/28/2026,Credit Card,Completed,81,1,5
+27,6/9/2026,Debit Card,Returned,196,1,2
+28,5/10/2026,Credit Card,Completed,103,1,5
+29,4/5/2026,Credit Card,Cancelled,231,2,9
+30,2/20/2026,Credit Card,Completed,234,2,13
+31,1/18/2026,Mobile Wallet,Returned,283,3,15
+32,1/25/2026,Installment,Completed,324,1,6
+33,5/11/2026,Mobile Wallet,Completed,150,3,16
+34,1/19/2026,Installment,Completed,73,3,16
+35,1/26/2026,Credit Card,Cancelled,297,3,17
+36,5/17/2026,Installment,Pending,147,2,12
+37,3/20/2026,Installment,Completed,340,1,4
+38,2/24/2026,Mobile Wallet,Cancelled,42,1,6
+39,4/8/2026,Installment,Returned,253,2,9
+40,6/11/2026,Mobile Wallet,Pending,272,2,14
+41,5/27/2026,Cash,Completed,315,2,9
+42,3/15/2026,Cash,Cancelled,258,1,5
+43,4/16/2026,Debit Card,Pending,276,3,17
+44,3/9/2026,Cash,Completed,118,1,2
+45,5/16/2026,Unknown,Cancelled,318,1,5
+46,3/5/2026,Debit Card,Completed,125,2,11
+47,1/21/2026,Installment,Cancelled,244,2,10
+48,3/11/2026,Debit Card,Completed,272,1,4
+49,1/6/2026,Installment,Completed,207,3,17
+50,2/2/2026,Installment,Completed,103,3,17
+51,5/13/2026,Installment,Completed,31,3,16
+52,6/21/2026,Credit Card,Pending,103,1,7
+53,1/19/2026,Cash,Cancelled,305,2,11
+54,3/12/2026,Installment,Cancelled,67,2,10
+55,5/16/2026,Credit Card,Completed,158,1,3
+56,3/14/2026,Credit Card,Returned,87,3,17
+57,5/17/2026,Cash,Completed,11,2,12
+58,6/5/2026,Mobile Wallet,Returned,289,1,6
+59,4/23/2026,Credit Card,Cancelled,265,1,8
+60,3/31/2026,Credit Card,Pending,226,3,16
+61,3/9/2026,Debit Card,Returned,118,1,7
+62,6/17/2026,Mobile Wallet,Completed,20,3,18
+63,6/10/2026,Installment,Completed,167,1,5
+64,2/2/2026,Mobile Wallet,Completed,246,3,16
+65,6/5/2026,Cash,Completed,310,3,15
+66,5/22/2026,Debit Card,Pending,161,1,8
+67,6/28/2026,Installment,Cancelled,13,2,13
+68,6/24/2026,Installment,Cancelled,305,1,4
+69,5/17/2026,Debit Card,Returned,118,1,7
+70,5/11/2026,Mobile Wallet,Completed,233,2,9
+71,1/5/2026,Installment,Returned,263,2,13
+72,6/19/2026,Credit Card,Completed,118,1,3
+73,2/24/2026,Cash,Completed,236,3,17
+74,1/16/2026,Mobile Wallet,Completed,184,2,12
+75,6/29/2026,Credit Card,Completed,103,2,10
+76,6/26/2026,Installment,Cancelled,35,1,1
+77,4/21/2026,Installment,Cancelled,80,2,14
+78,6/23/2026,Cash,Returned,340,2,10
+79,4/22/2026,Installment,Returned,135,2,12
+80,3/7/2026,Installment,Returned,320,1,7
+81,2/12/2026,Unknown,Cancelled,234,1,4
+82,3/1/2026,Mobile Wallet,Cancelled,347,1,5
+83,6/12/2026,Debit Card,Completed,268,1,7
+84,2/27/2026,Cash,Completed,29,1,3
+85,6/13/2026,Debit Card,Returned,348,3,16
+86,4/14/2026,Mobile Wallet,Completed,157,1,3
+87,6/2/2026,Mobile Wallet,Completed,70,1,6
+88,6/30/2026,Credit Card,Pending,272,1,3
+89,4/16/2026,Debit Card,Completed,318,2,13
+90,6/27/2026,Debit Card,Returned,28,1,1
+91,2/5/2026,Credit Card,Cancelled,314,3,16
+92,1/8/2026,Mobile Wallet,Completed,324,2,13
+93,2/27/2026,Mobile Wallet,Pending,114,1,3
+94,5/17/2026,Mobile Wallet,Completed,247,1,1
+95,5/11/2026,Cash,Pending,296,2,12
+96,2/25/2026,Mobile Wallet,Completed,139,3,15
+97,4/23/2026,Debit Card,Completed,326,2,12
+98,4/24/2026,Cash,Completed,143,3,17
+99,5/21/2026,Cash,Returned,336,1,5
+100,3/2/2026,Credit Card,Completed,265,2,12
+101,3/3/2026,Credit Card,Completed,336,1,5
+102,4/4/2026,Debit Card,Completed,314,1,6
+103,4/26/2026,Credit Card,Completed,224,1,2
+104,6/14/2026,Installment,Completed,8,1,1
+105,2/13/2026,Installment,Cancelled,24,2,12
+106,2/28/2026,Mobile Wallet,Completed,185,2,11
+107,2/21/2026,Cash,Completed,20,2,9
+108,5/31/2026,Installment,Completed,284,3,15
+109,6/3/2026,Installment,Completed,310,2,14
+110,1/24/2026,Cash,Completed,87,2,13
+111,5/27/2026,Cash,Completed,172,1,7
+112,1/23/2026,Credit Card,Cancelled,220,1,8
+113,5/22/2026,Cash,Completed,7,1,6
+114,6/5/2026,Installment,Completed,37,3,18
+115,4/5/2026,Cash,Completed,23,2,13
+116,5/4/2026,Credit Card,Completed,276,2,12
+117,3/3/2026,Mobile Wallet,Completed,150,3,17
+118,5/16/2026,Installment,Completed,240,3,15
+119,6/5/2026,Unknown,Returned,339,3,16
+120,1/1/2026,Cash,Completed,67,2,9
+121,5/6/2026,Credit Card,Cancelled,264,1,3
+122,2/11/2026,Credit Card,Pending,59,1,4
+123,2/18/2026,Unknown,Unknown,36,1,1
+124,4/24/2026,Mobile Wallet,Completed,7,3,17
+125,2/19/2026,Cash,Cancelled,68,1,1
+126,5/12/2026,Mobile Wallet,Cancelled,312,2,13
+127,4/19/2026,Credit Card,Completed,266,2,13
+128,3/22/2026,Mobile Wallet,Completed,98,1,3
+129,3/8/2026,Cash,Pending,67,2,11
+130,3/3/2026,Cash,Cancelled,174,2,10
+131,1/8/2026,Mobile Wallet,Completed,106,1,7
+132,2/28/2026,Mobile Wallet,Completed,185,2,11
+133,5/13/2026,Installment,Pending,305,1,6
+134,1/6/2026,Credit Card,Completed,265,2,10
+135,5/9/2026,Credit Card,Cancelled,42,1,2
+136,5/5/2026,Mobile Wallet,Completed,317,1,7
+137,2/24/2026,Cash,Cancelled,323,1,3
+138,3/15/2026,Debit Card,Completed,80,2,12
+139,5/5/2026,Mobile Wallet,Completed,313,2,13
+140,1/7/2026,Installment,Completed,15,3,15
+141,3/13/2026,Installment,Completed,8,1,3
+142,3/6/2026,Mobile Wallet,Pending,87,1,2
+143,4/20/2026,Debit Card,Completed,148,1,6
+144,4/20/2026,Cash,Completed,113,1,7
+145,4/14/2026,Unknown,Completed,309,3,17
+146,6/18/2026,Cash,Completed,212,2,9
+147,4/20/2026,Mobile Wallet,Completed,324,3,15
+148,6/8/2026,Credit Card,Cancelled,54,2,12
+149,6/7/2026,Debit Card,Completed,99,1,4
+150,6/30/2026,Debit Card,Completed,207,1,1
+151,2/25/2026,Mobile Wallet,Completed,165,2,9
+152,2/8/2026,Debit Card,Pending,83,2,13
+153,5/15/2026,Installment,Completed,279,1,3
+154,6/8/2026,Credit Card,Completed,196,3,17
+155,2/20/2026,Credit Card,Pending,183,3,16
+156,1/13/2026,Unknown,Cancelled,165,2,12
+157,4/26/2026,Credit Card,Completed,309,2,12
+158,1/18/2026,Installment,Completed,85,2,12
+159,2/28/2026,Mobile Wallet,Completed,315,3,18
+160,1/24/2026,Installment,Completed,165,1,1
+161,6/30/2026,Cash,Completed,144,3,16
+162,3/27/2026,Cash,Cancelled,32,2,12
+163,3/8/2026,Credit Card,Completed,330,1,7
+164,4/16/2026,Cash,Completed,231,1,4
+165,5/12/2026,Mobile Wallet,Returned,108,3,16
+166,2/27/2026,Mobile Wallet,Completed,207,1,5
+167,4/28/2026,Mobile Wallet,Completed,310,1,7
+168,2/25/2026,Unknown,Unknown,133,1,7
+169,2/24/2026,Cash,Completed,306,1,6
+170,5/11/2026,Cash,Completed,115,3,18
+171,6/23/2026,Installment,Pending,100,2,12
+172,5/15/2026,Cash,Pending,78,3,17
+173,5/5/2026,Cash,Pending,256,2,13
+174,1/25/2026,Cash,Completed,236,3,18
+175,3/1/2026,Cash,Completed,163,1,5
+176,5/7/2026,Cash,Pending,231,2,12
+177,2/8/2026,Debit Card,Completed,78,3,17
+178,6/9/2026,Installment,Returned,231,1,5
+179,1/13/2026,Credit Card,Completed,81,1,8
+180,5/4/2026,Mobile Wallet,Completed,95,3,16
+181,5/15/2026,Mobile Wallet,Completed,135,2,9
+182,5/11/2026,Mobile Wallet,Cancelled,289,1,5
+183,3/12/2026,Debit Card,Completed,289,3,16
+184,6/1/2026,Cash,Completed,283,1,6
+185,4/25/2026,Cash,Completed,161,1,7
+186,3/11/2026,Cash,Completed,103,1,7
+187,1/1/2026,Credit Card,Completed,43,3,15
+188,4/26/2026,Cash,Completed,77,3,15
+189,6/3/2026,Credit Card,Completed,239,1,5
+190,5/4/2026,Cash,Completed,158,2,12
+191,4/23/2026,Credit Card,Returned,8,2,10
+192,2/9/2026,Mobile Wallet,Pending,229,2,14
+193,4/19/2026,Debit Card,Completed,230,2,12
+194,5/3/2026,Installment,Completed,244,2,12
+195,4/26/2026,Debit Card,Completed,196,2,12
+196,6/16/2026,Debit Card,Completed,85,2,13
+197,5/11/2026,Debit Card,Completed,14,1,7
+198,4/21/2026,Credit Card,Cancelled,62,3,16
+199,1/22/2026,Credit Card,Returned,73,2,12
+200,2/10/2026,Credit Card,Completed,316,1,6
+201,3/30/2026,Debit Card,Pending,11,3,15
+202,1/21/2026,Credit Card,Completed,94,3,15
+203,3/19/2026,Debit Card,Completed,11,3,17
+204,6/25/2026,Credit Card,Pending,161,2,10
+205,5/11/2026,Mobile Wallet,Completed,322,1,4
+206,3/26/2026,Debit Card,Completed,329,2,13
+207,5/2/2026,Installment,Completed,257,1,1
+208,3/29/2026,Mobile Wallet,Completed,54,2,12
+209,2/15/2026,Credit Card,Returned,203,3,18
+210,3/24/2026,Mobile Wallet,Completed,316,2,12
+211,6/13/2026,Cash,Completed,256,3,17
+212,2/1/2026,Cash,Completed,43,1,6
+213,6/14/2026,Debit Card,Completed,85,3,17
+214,4/28/2026,Credit Card,Pending,216,2,11
+215,1/7/2026,Debit Card,Completed,272,1,5
+216,5/7/2026,Mobile Wallet,Cancelled,188,1,1
+217,4/7/2026,Installment,Completed,32,1,6
+218,1/1/2026,Installment,Pending,109,2,10
+219,3/20/2026,Debit Card,Completed,317,3,18
+220,2/25/2026,Debit Card,Completed,302,2,10
+221,3/24/2026,Debit Card,Completed,102,2,12
+222,5/2/2026,Cash,Completed,310,2,14
+223,5/11/2026,Mobile Wallet,Returned,158,2,13
+224,6/11/2026,Mobile Wallet,Cancelled,64,2,12
+225,2/1/2026,Installment,Pending,54,1,7
+226,4/16/2026,Mobile Wallet,Returned,78,1,2
+227,3/6/2026,Installment,Returned,116,3,16
+228,3/4/2026,Debit Card,Completed,5,3,16
+229,2/27/2026,Installment,Returned,163,2,10
+230,2/20/2026,Mobile Wallet,Completed,77,1,8
+231,4/26/2026,Debit Card,Returned,12,1,5
+232,3/3/2026,Mobile Wallet,Completed,171,1,6
+233,1/13/2026,Debit Card,Completed,3,3,15
+234,6/28/2026,Mobile Wallet,Completed,299,1,8
+235,6/6/2026,Mobile Wallet,Completed,316,3,17
+236,1/12/2026,Credit Card,Completed,240,2,12
+237,3/11/2026,Cash,Pending,99,1,2
+238,2/2/2026,Installment,Completed,207,1,7
+239,5/1/2026,Mobile Wallet,Cancelled,224,2,13
+240,2/14/2026,Installment,Completed,135,2,13
+241,2/28/2026,Cash,Completed,59,1,7
+242,4/26/2026,Credit Card,Completed,310,2,11
+243,1/30/2026,Mobile Wallet,Cancelled,98,2,10
+244,5/31/2026,Debit Card,Unknown,128,3,18
+245,1/26/2026,Installment,Completed,326,1,5
+246,6/24/2026,Unknown,Unknown,72,1,7
+247,3/12/2026,Debit Card,Returned,189,2,13
+248,5/2/2026,Debit Card,Cancelled,276,1,7
+249,1/20/2026,Installment,Pending,130,2,13
+250,4/2/2026,Credit Card,Pending,54,2,12
+251,6/26/2026,Mobile Wallet,Completed,274,1,3
+252,4/23/2026,Credit Card,Completed,59,3,18
+253,1/8/2026,Installment,Pending,291,3,16
+254,2/9/2026,Installment,Cancelled,331,3,17
+255,4/21/2026,Cash,Completed,263,3,17
+256,2/17/2026,Credit Card,Completed,29,2,12
+257,6/30/2026,Debit Card,Completed,110,1,5
+258,5/5/2026,Installment,Pending,313,3,17
+259,3/1/2026,Debit Card,Completed,118,3,17
+260,5/11/2026,Credit Card,Returned,43,1,7
+261,6/27/2026,Debit Card,Completed,244,1,6
+262,6/27/2026,Mobile Wallet,Cancelled,348,1,3
+263,1/23/2026,Cash,Returned,43,2,13
+264,4/23/2026,Credit Card,Completed,150,2,12
+265,4/28/2026,Installment,Completed,234,2,9
+266,6/7/2026,Cash,Completed,322,3,16
+267,6/9/2026,Cash,Returned,5,3,16
+268,1/12/2026,Installment,Completed,216,2,10
+269,2/3/2026,Cash,Completed,119,2,10
+270,6/1/2026,Installment,Completed,329,2,13
+271,6/27/2026,Installment,Completed,309,1,4
+272,5/11/2026,Installment,Returned,26,2,12
+273,3/18/2026,Credit Card,Completed,83,2,9
+274,2/14/2026,Cash,Cancelled,264,2,10
+275,4/11/2026,Installment,Returned,81,3,15
+276,2/19/2026,Installment,Completed,130,1,6
+277,4/11/2026,Credit Card,Returned,334,3,16
+278,1/5/2026,Credit Card,Pending,138,1,4
+279,3/8/2026,Debit Card,Completed,42,2,11
+280,1/20/2026,Mobile Wallet,Returned,182,2,12
+281,4/19/2026,Cash,Completed,102,1,4
+282,3/8/2026,Debit Card,Completed,43,1,4
+283,6/7/2026,Mobile Wallet,Completed,110,3,17
+284,1/31/2026,Mobile Wallet,Completed,103,3,17
+285,3/27/2026,Mobile Wallet,Cancelled,314,2,13
+286,5/25/2026,Mobile Wallet,Cancelled,6,1,4
+287,6/16/2026,Cash,Completed,158,2,9
+288,4/6/2026,Installment,Completed,144,3,15
+289,6/27/2026,Credit Card,Completed,317,2,13
+290,3/23/2026,Credit Card,Pending,77,2,12
+291,5/23/2026,Credit Card,Returned,146,2,13
+292,3/26/2026,Installment,Pending,175,1,5
+293,1/5/2026,Mobile Wallet,Completed,274,3,16
+294,4/23/2026,Mobile Wallet,Completed,215,1,5
+295,3/29/2026,Mobile Wallet,Completed,54,2,12
+296,3/6/2026,Credit Card,Cancelled,171,3,15
+297,5/1/2026,Cash,Returned,9,2,14
+298,1/7/2026,Credit Card,Completed,236,1,2
+299,6/27/2026,Debit Card,Pending,115,1,6
+300,5/15/2026,Installment,Returned,265,1,6
+301,4/28/2026,Debit Card,Cancelled,163,1,5
+302,3/16/2026,Installment,Completed,176,2,12
+303,4/26/2026,Cash,Returned,187,2,13
+304,2/21/2026,Cash,Completed,154,3,15
+305,2/23/2026,Mobile Wallet,Completed,302,1,5
+306,3/18/2026,Debit Card,Cancelled,67,1,1
+307,3/10/2026,Mobile Wallet,Completed,129,1,3
+308,1/14/2026,Installment,Cancelled,265,1,5
+309,5/27/2026,Installment,Pending,196,1,5
+310,6/26/2026,Credit Card,Pending,203,2,12
+311,5/11/2026,Installment,Completed,94,2,9
+312,6/10/2026,Unknown,Unknown,126,1,6
+313,6/30/2026,Credit Card,Returned,214,1,2
+314,1/31/2026,Installment,Completed,283,1,4
+315,1/29/2026,Mobile Wallet,Completed,221,1,7
+316,2/27/2026,Cash,Completed,29,1,3
+317,2/24/2026,Credit Card,Cancelled,89,2,9
+318,5/10/2026,Cash,Returned,32,3,16
+319,3/19/2026,Cash,Pending,116,1,4
+320,5/17/2026,Mobile Wallet,Pending,163,3,16
+321,2/2/2026,Cash,Cancelled,150,3,16
+322,1/5/2026,Debit Card,Unknown,8,3,16
+323,1/13/2026,Cash,Returned,114,1,5
+324,5/6/2026,Credit Card,Completed,240,2,12
+325,3/14/2026,Debit Card,Completed,283,1,5
+326,5/15/2026,Mobile Wallet,Completed,133,2,13
+327,3/14/2026,Cash,Returned,298,2,12
+328,2/25/2026,Debit Card,Unknown,81,1,7
+329,6/14/2026,Credit Card,Pending,208,1,4
+330,1/26/2026,Installment,Completed,33,2,13
+331,4/1/2026,Installment,Returned,98,3,17
+332,6/5/2026,Debit Card,Returned,151,1,5
+333,1/1/2026,Installment,Returned,289,1,2
+334,5/1/2026,Debit Card,Completed,234,2,11
+335,6/10/2026,Installment,Completed,93,1,5
+336,6/9/2026,Cash,Cancelled,193,3,17
+337,5/11/2026,Installment,Completed,305,3,17
+338,6/24/2026,Mobile Wallet,Completed,342,1,3
+339,4/28/2026,Installment,Returned,185,1,8
+340,2/14/2026,Installment,Cancelled,155,2,13
+341,6/19/2026,Cash,Completed,185,2,13
+342,2/24/2026,Debit Card,Returned,54,3,15
+343,1/21/2026,Cash,Cancelled,111,3,16
+344,4/20/2026,Debit Card,Cancelled,146,1,3
+345,4/26/2026,Credit Card,Completed,239,3,15
+346,6/3/2026,Cash,Unknown,58,2,11
+347,1/1/2026,Mobile Wallet,Pending,108,1,7
+348,2/20/2026,Cash,Completed,150,1,8
+349,5/7/2026,Debit Card,Returned,53,2,10
+350,2/25/2026,Mobile Wallet,Cancelled,139,2,9
+351,3/20/2026,Mobile Wallet,Returned,334,2,13
+352,5/10/2026,Cash,Completed,304,2,9
+353,3/5/2026,Cash,Completed,78,1,4
+354,6/29/2026,Mobile Wallet,Returned,316,1,6
+355,1/1/2026,Cash,Pending,54,1,7
+356,4/26/2026,Installment,Cancelled,324,2,13
+357,1/12/2026,Installment,Completed,329,2,13
+358,1/10/2026,Installment,Completed,32,1,5
+359,6/4/2026,Installment,Cancelled,110,3,17
+360,2/25/2026,Credit Card,Completed,263,1,5
+361,1/27/2026,Credit Card,Completed,41,1,3
+362,2/11/2026,Installment,Completed,90,3,16
+363,5/7/2026,Cash,Completed,135,2,12
+364,6/4/2026,Credit Card,Completed,167,1,5
+365,5/16/2026,Unknown,Unknown,328,1,7
+366,3/31/2026,Cash,Cancelled,286,2,13
+367,3/20/2026,Cash,Cancelled,216,2,14
+368,5/27/2026,Debit Card,Pending,236,1,8
+369,1/13/2026,Debit Card,Returned,226,3,16
+370,3/12/2026,Credit Card,Returned,185,1,6
+371,1/13/2026,Mobile Wallet,Completed,5,1,5
+372,5/22/2026,Credit Card,Completed,327,1,4
+373,6/4/2026,Mobile Wallet,Cancelled,315,3,15
+374,2/1/2026,Mobile Wallet,Returned,283,1,4
+375,6/13/2026,Mobile Wallet,Completed,310,1,1
+376,4/12/2026,Debit Card,Cancelled,324,2,13
+377,5/26/2026,Cash,Returned,324,2,12
+378,6/9/2026,Cash,Completed,97,2,10
+379,2/5/2026,Installment,Cancelled,251,1,5
+380,3/31/2026,Cash,Cancelled,244,3,16
+381,3/12/2026,Credit Card,Completed,224,1,6
+382,4/19/2026,Debit Card,Pending,224,2,12
+383,6/30/2026,Installment,Cancelled,60,3,15
+384,5/30/2026,Credit Card,Returned,292,1,8
+385,3/1/2026,Unknown,Completed,147,2,12
+386,3/18/2026,Debit Card,Unknown,257,2,12
+387,6/10/2026,Debit Card,Completed,291,1,6
+388,2/3/2026,Mobile Wallet,Completed,130,3,15
+389,6/16/2026,Credit Card,Completed,313,3,18
+390,3/7/2026,Installment,Cancelled,323,2,14
+391,3/1/2026,Mobile Wallet,Completed,33,3,15
+392,1/9/2026,Cash,Completed,301,3,15
+393,3/17/2026,Credit Card,Completed,214,2,13
+394,4/6/2026,Installment,Completed,64,3,18
+395,5/7/2026,Mobile Wallet,Returned,184,1,1
+396,3/31/2026,Credit Card,Completed,43,1,6
+397,1/14/2026,Debit Card,Completed,284,3,18
+398,3/7/2026,Mobile Wallet,Returned,139,1,7
+399,5/5/2026,Debit Card,Cancelled,81,2,10
+400,3/1/2026,Mobile Wallet,Returned,149,3,17
+401,5/15/2026,Debit Card,Completed,103,2,10
+402,1/24/2026,Debit Card,Pending,316,2,13
+403,3/12/2026,Cash,Completed,163,1,6
+404,6/17/2026,Mobile Wallet,Cancelled,114,2,10
+405,3/28/2026,Mobile Wallet,Cancelled,140,1,3
+406,5/7/2026,Installment,Completed,28,3,17
+407,6/9/2026,Mobile Wallet,Completed,326,1,2
+408,4/12/2026,Installment,Cancelled,326,1,8
+409,4/24/2026,Debit Card,Pending,14,2,13
+410,1/1/2026,Mobile Wallet,Cancelled,106,3,17
+411,6/18/2026,Installment,Completed,340,1,4
+412,1/1/2026,Mobile Wallet,Pending,108,1,7
+413,3/25/2026,Credit Card,Completed,310,1,8
+414,4/16/2026,Unknown,Unknown,185,1,4
+415,6/9/2026,Credit Card,Completed,14,2,10
+416,6/26/2026,Debit Card,Completed,301,2,13
+417,4/24/2026,Installment,Returned,310,1,3
+418,6/29/2026,Debit Card,Completed,98,3,17
+419,3/6/2026,Mobile Wallet,Returned,109,2,14
+420,4/29/2026,Mobile Wallet,Completed,192,1,8
+421,5/16/2026,Unknown,Completed,20,2,10
+422,6/24/2026,Mobile Wallet,Completed,64,2,12
+423,5/23/2026,Mobile Wallet,Completed,315,1,2
+424,1/7/2026,Installment,Completed,346,2,12
+425,3/17/2026,Credit Card,Completed,42,1,5
+426,6/4/2026,Debit Card,Completed,78,2,12
+427,3/10/2026,Debit Card,Pending,263,2,13
+428,6/9/2026,Installment,Completed,210,3,18
+429,5/20/2026,Mobile Wallet,Completed,207,1,5
+430,4/12/2026,Cash,Completed,174,3,15
+431,3/1/2026,Cash,Completed,239,1,1
+432,1/5/2026,Cash,Returned,324,2,12
+433,3/19/2026,Mobile Wallet,Returned,8,3,16
+434,1/28/2026,Debit Card,Pending,167,3,17
+435,4/20/2026,Cash,Cancelled,114,1,6
+436,1/15/2026,Installment,Completed,163,1,6
+437,5/10/2026,Debit Card,Completed,15,3,15
+438,6/20/2026,Installment,Pending,263,1,7
+439,6/27/2026,Credit Card,Completed,144,1,5
+440,4/14/2026,Cash,Completed,308,2,14
+441,6/16/2026,Mobile Wallet,Completed,63,3,18
+442,4/30/2026,Credit Card,Completed,331,1,6
+443,2/11/2026,Debit Card,Cancelled,277,3,16
+444,4/2/2026,Cash,Returned,128,1,6
+445,5/5/2026,Mobile Wallet,Completed,74,3,16
+446,6/30/2026,Mobile Wallet,Completed,203,1,5
+447,5/10/2026,Installment,Completed,283,3,17
+448,5/12/2026,Cash,Pending,150,1,5
+449,5/2/2026,Credit Card,Cancelled,163,3,16
+450,2/5/2026,Mobile Wallet,Pending,56,1,6
+451,2/21/2026,Debit Card,Completed,184,2,13
+452,1/3/2026,Mobile Wallet,Completed,316,3,16
+453,3/20/2026,Debit Card,Returned,48,2,10
+454,4/26/2026,Installment,Completed,150,3,15
+455,6/10/2026,Unknown,Completed,324,2,12
+456,2/18/2026,Mobile Wallet,Cancelled,148,3,16
+457,1/24/2026,Debit Card,Completed,283,2,13
+458,6/9/2026,Cash,Completed,268,2,12
+459,6/15/2026,Unknown,Unknown,165,3,17
+460,2/25/2026,Mobile Wallet,Completed,164,2,13
+461,4/13/2026,Mobile Wallet,Pending,161,1,6
+462,2/11/2026,Credit Card,Completed,117,2,13
+463,3/30/2026,Installment,Completed,259,2,10
+464,4/21/2026,Installment,Completed,39,3,18
+465,1/16/2026,Mobile Wallet,Completed,184,2,12
+466,4/16/2026,Unknown,Unknown,240,3,16
+467,4/5/2026,Installment,Completed,220,3,16
+468,4/8/2026,Mobile Wallet,Returned,334,1,6
+469,3/14/2026,Cash,Completed,46,3,16
+470,4/23/2026,Credit Card,Returned,7,1,2
+471,4/27/2026,Credit Card,Cancelled,166,3,15
+472,2/20/2026,Installment,Completed,297,3,15
+473,2/24/2026,Credit Card,Completed,266,2,9
+474,2/23/2026,Credit Card,Cancelled,43,2,12
+475,3/24/2026,Mobile Wallet,Completed,334,2,13
+476,2/25/2026,Credit Card,Completed,209,3,18
+477,2/7/2026,Cash,Completed,291,3,17
+478,4/8/2026,Mobile Wallet,Completed,224,3,15
+479,4/16/2026,Installment,Cancelled,257,2,13
+480,6/15/2026,Mobile Wallet,Completed,105,1,5
+481,5/13/2026,Installment,Cancelled,209,2,12
+482,3/3/2026,Credit Card,Cancelled,309,1,8
+483,5/20/2026,Installment,Completed,7,3,15
+484,6/29/2026,Mobile Wallet,Completed,98,1,5
+485,4/16/2026,Debit Card,Completed,222,2,10
+486,4/19/2026,Debit Card,Cancelled,8,3,17
+487,2/9/2026,Credit Card,Pending,117,3,15
+488,1/24/2026,Debit Card,Pending,316,2,10
+489,3/15/2026,Mobile Wallet,Completed,251,1,7
+490,2/11/2026,Mobile Wallet,Completed,251,1,7
+491,3/21/2026,Debit Card,Returned,236,1,7
+492,1/30/2026,Credit Card,Pending,336,2,12
+493,4/23/2026,Cash,Cancelled,240,3,15
+494,6/15/2026,Credit Card,Unknown,68,3,16
+495,6/12/2026,Mobile Wallet,Completed,277,3,16
+496,3/13/2026,Cash,Completed,193,2,11
+497,2/11/2026,Credit Card,Completed,125,2,13
+498,3/30/2026,Cash,Returned,314,1,7
+499,3/19/2026,Installment,Completed,151,2,9
+500,6/9/2026,Debit Card,Completed,85,2,10
+501,5/4/2026,Installment,Completed,265,1,7
+502,1/19/2026,Installment,Pending,302,3,18
+503,3/5/2026,Mobile Wallet,Returned,246,2,13
+504,5/31/2026,Cash,Completed,299,1,5
+505,2/28/2026,Cash,Returned,219,1,7
+506,5/13/2026,Credit Card,Cancelled,177,2,12
+507,4/20/2026,Debit Card,Completed,78,2,10
+508,6/4/2026,Installment,Completed,247,3,17
+509,3/20/2026,Debit Card,Completed,36,3,17
+510,6/26/2026,Credit Card,Completed,48,3,18
+511,6/28/2026,Cash,Completed,272,1,8
+512,1/2/2026,Debit Card,Pending,165,1,7
+513,3/9/2026,Mobile Wallet,Completed,96,2,10
+514,1/5/2026,Installment,Completed,89,3,17
+515,6/15/2026,Mobile Wallet,Completed,54,2,13
+516,6/9/2026,Installment,Returned,316,2,14
+517,1/31/2026,Mobile Wallet,Completed,326,3,17
+518,5/4/2026,Installment,Completed,251,3,17
+519,3/20/2026,Credit Card,Completed,109,2,9
+520,5/26/2026,Credit Card,Pending,265,2,9
+521,4/6/2026,Installment,Completed,224,2,9
+522,4/2/2026,Installment,Returned,313,1,5
+523,4/22/2026,Unknown,Unknown,257,1,4
+524,3/20/2026,Installment,Completed,316,2,13
+525,5/1/2026,Credit Card,Pending,158,1,6
+526,1/26/2026,Mobile Wallet,Cancelled,220,3,17
+527,3/20/2026,Mobile Wallet,Returned,283,2,12
+528,5/26/2026,Cash,Pending,108,1,3
+529,3/2/2026,Credit Card,Unknown,253,2,12
+530,3/4/2026,Cash,Returned,347,3,17
+531,6/29/2026,Credit Card,Completed,186,1,5
+532,6/11/2026,Mobile Wallet,Completed,150,2,11
+533,4/15/2026,Mobile Wallet,Pending,267,1,3
+534,2/20/2026,Debit Card,Pending,20,2,9
+535,1/5/2026,Cash,Unknown,125,2,13
+536,6/6/2026,Debit Card,Pending,49,1,6
+537,6/15/2026,Credit Card,Returned,163,2,13
+538,5/31/2026,Installment,Returned,209,1,7
+539,6/17/2026,Debit Card,Cancelled,126,1,6
+540,4/5/2026,Credit Card,Cancelled,248,1,7
+541,2/20/2026,Cash,Completed,257,1,4
+542,5/20/2026,Debit Card,Completed,73,2,12
+543,2/25/2026,Mobile Wallet,Completed,249,3,15
+544,3/10/2026,Credit Card,Completed,150,2,9
+545,4/24/2026,Installment,Completed,29,3,15
+546,5/1/2026,Mobile Wallet,Returned,181,2,12
+547,5/5/2026,Mobile Wallet,Completed,174,1,3
+548,4/23/2026,Mobile Wallet,Returned,329,2,13
+549,4/3/2026,Mobile Wallet,Cancelled,177,2,10
+550,2/4/2026,Installment,Returned,336,3,16
+551,1/23/2026,Mobile Wallet,Completed,244,3,16
+552,6/21/2026,Installment,Completed,60,3,15
+553,1/12/2026,Mobile Wallet,Completed,46,1,8
+554,2/25/2026,Cash,Pending,201,2,10
+555,5/13/2026,Debit Card,Completed,135,2,10
+556,1/28/2026,Credit Card,Completed,8,3,16
+557,4/25/2026,Debit Card,Completed,148,1,7
+558,4/26/2026,Mobile Wallet,Completed,285,2,10
+559,4/26/2026,Unknown,Completed,122,3,15
+560,2/25/2026,Mobile Wallet,Completed,108,1,5
+561,5/11/2026,Installment,Completed,165,2,13
+562,2/7/2026,Mobile Wallet,Returned,176,1,7
+563,6/7/2026,Unknown,Unknown,161,3,16
+564,5/7/2026,Mobile Wallet,Completed,234,3,17
+565,2/8/2026,Installment,Completed,142,1,3
+566,1/25/2026,Debit Card,Cancelled,313,1,8
+567,4/3/2026,Cash,Pending,63,3,15
+568,3/11/2026,Cash,Completed,103,1,7
+569,2/27/2026,Cash,Completed,229,1,6
+570,2/25/2026,Cash,Unknown,189,1,8
+571,3/12/2026,Installment,Completed,263,2,12
+572,2/14/2026,Debit Card,Completed,73,3,18
+573,5/22/2026,Installment,Completed,78,3,16
+574,3/10/2026,Debit Card,Completed,185,1,2
+575,5/23/2026,Cash,Completed,174,2,12
+576,3/31/2026,Installment,Completed,148,3,16
+577,5/2/2026,Cash,Pending,33,2,12
+578,1/16/2026,Debit Card,Returned,54,2,10
+579,6/26/2026,Mobile Wallet,Cancelled,108,2,9
+580,4/9/2026,Debit Card,Completed,220,3,15
+581,2/28/2026,Mobile Wallet,Completed,20,1,1
+582,1/30/2026,Debit Card,Completed,148,2,11
+583,2/11/2026,Cash,Completed,289,1,4
+584,2/21/2026,Installment,Completed,263,1,3
+585,4/5/2026,Mobile Wallet,Completed,263,1,5
+586,6/15/2026,Installment,Completed,113,3,15
+587,6/5/2026,Credit Card,Completed,9,1,2
+588,2/18/2026,Cash,Completed,334,1,3
+589,1/12/2026,Credit Card,Completed,233,1,7
+590,6/27/2026,Installment,Completed,161,3,17
+591,4/26/2026,Installment,Completed,54,1,7
+592,2/14/2026,Mobile Wallet,Pending,187,1,7
+593,5/26/2026,Mobile Wallet,Returned,2,2,12
+594,3/2/2026,Credit Card,Completed,233,1,6
+595,5/13/2026,Debit Card,Pending,322,1,2
+596,3/1/2026,Debit Card,Returned,239,1,3
+597,4/19/2026,Installment,Completed,208,3,17
+598,1/30/2026,Unknown,Completed,257,2,9
+599,4/30/2026,Cash,Returned,142,2,11
+600,5/28/2026,Debit Card,Completed,196,3,15
+601,2/28/2026,Debit Card,Cancelled,176,1,3
+602,4/20/2026,Mobile Wallet,Completed,225,3,18
+603,4/1/2026,Debit Card,Completed,343,2,11
+604,2/16/2026,Cash,Cancelled,215,1,5
+605,1/6/2026,Installment,Completed,323,3,15
+606,5/9/2026,Credit Card,Completed,5,3,15
+607,6/29/2026,Mobile Wallet,Returned,246,1,5
+608,3/18/2026,Cash,Pending,31,1,5
+609,6/25/2026,Mobile Wallet,Cancelled,297,2,9
+610,2/7/2026,Mobile Wallet,Returned,339,3,15
+611,2/4/2026,Cash,Completed,138,2,12
+612,1/17/2026,Mobile Wallet,Completed,326,2,12
+613,5/18/2026,Debit Card,Cancelled,8,1,3
+614,6/29/2026,Cash,Returned,130,2,14
+615,3/21/2026,Credit Card,Completed,106,2,13
+616,2/25/2026,Cash,Completed,336,3,18
+617,5/30/2026,Installment,Completed,246,1,5
+618,3/29/2026,Unknown,Unknown,343,3,15
+619,3/5/2026,Mobile Wallet,Completed,197,2,13
+620,5/19/2026,Installment,Cancelled,234,2,12
+621,6/11/2026,Cash,Pending,203,1,6
+622,6/21/2026,Debit Card,Pending,26,2,10
+623,6/5/2026,Debit Card,Completed,313,1,7
+624,1/21/2026,Installment,Pending,8,2,13
+625,5/11/2026,Cash,Completed,196,1,3
+626,2/24/2026,Cash,Completed,236,3,17
+627,5/29/2026,Mobile Wallet,Completed,155,2,14
+628,6/2/2026,Mobile Wallet,Completed,184,3,15
+629,1/1/2026,Credit Card,Completed,12,1,5
+630,6/11/2026,Mobile Wallet,Completed,150,2,11
+631,1/8/2026,Cash,Pending,77,2,9
+632,2/20/2026,Credit Card,Cancelled,347,3,17
+633,4/16/2026,Credit Card,Completed,28,1,5
+634,2/7/2026,Cash,Completed,108,1,3
+635,2/23/2026,Installment,Returned,283,2,12
+636,1/11/2026,Debit Card,Completed,116,2,13
+637,6/20/2026,Cash,Completed,234,3,15
+638,2/18/2026,Credit Card,Completed,114,2,9
+639,6/2/2026,Mobile Wallet,Completed,184,3,15
+640,3/31/2026,Cash,Completed,46,2,12
+641,6/16/2026,Cash,Returned,315,1,4
+642,6/26/2026,Mobile Wallet,Completed,325,1,2
+643,6/14/2026,Cash,Completed,224,3,16
+644,1/27/2026,Debit Card,Returned,193,1,6
+645,4/17/2026,Mobile Wallet,Completed,34,3,16
+646,5/12/2026,Installment,Completed,273,1,7
+647,4/27/2026,Mobile Wallet,Pending,163,1,5
+648,2/18/2026,Cash,Completed,116,1,6
+649,6/28/2026,Cash,Completed,212,2,12
+650,4/4/2026,Installment,Returned,247,2,9
+651,2/8/2026,Credit Card,Cancelled,316,2,13
+652,2/9/2026,Mobile Wallet,Cancelled,124,3,16
+653,6/26/2026,Credit Card,Returned,73,2,13
+654,2/8/2026,Installment,Completed,46,1,1
+655,2/27/2026,Debit Card,Completed,232,1,5
+656,1/5/2026,Credit Card,Completed,189,2,12
+657,3/20/2026,Debit Card,Completed,216,2,12
+658,6/8/2026,Credit Card,Completed,184,2,14
+659,5/15/2026,Installment,Returned,289,2,11
+660,6/20/2026,Credit Card,Cancelled,124,1,2
+661,3/1/2026,Debit Card,Completed,272,1,8
+662,6/28/2026,Mobile Wallet,Pending,246,1,6
+663,2/24/2026,Installment,Completed,302,2,13
+664,4/28/2026,Credit Card,Completed,148,1,6
+665,6/5/2026,Cash,Completed,276,1,5
+666,6/23/2026,Credit Card,Cancelled,4,3,15
+667,5/2/2026,Credit Card,Completed,221,2,11
+668,6/13/2026,Debit Card,Returned,334,3,17
+669,5/5/2026,Credit Card,Returned,78,3,17
+670,5/7/2026,Cash,Completed,128,1,8
+671,3/4/2026,Debit Card,Completed,42,2,9
+672,2/7/2026,Debit Card,Completed,209,1,3
+673,2/12/2026,Debit Card,Completed,77,1,8
+674,6/25/2026,Credit Card,Completed,97,1,3
+675,6/27/2026,Credit Card,Completed,90,2,13
+676,1/28/2026,Cash,Completed,94,2,10
+677,5/28/2026,Cash,Completed,54,3,18
+678,3/15/2026,Credit Card,Unknown,108,1,8
+679,5/21/2026,Installment,Unknown,234,2,13
+680,3/1/2026,Cash,Completed,312,1,8
+681,2/1/2026,Credit Card,Completed,323,2,10
+682,5/2/2026,Debit Card,Pending,240,3,16
+683,1/5/2026,Cash,Returned,225,3,16
+684,5/26/2026,Installment,Completed,73,2,13
+685,4/12/2026,Cash,Cancelled,114,2,13
+686,2/5/2026,Credit Card,Cancelled,314,3,16
+687,6/5/2026,Cash,Returned,81,3,18
+688,2/5/2026,Cash,Unknown,234,3,16
+689,6/28/2026,Installment,Completed,265,1,5
+690,3/3/2026,Debit Card,Cancelled,163,1,5
+691,3/12/2026,Mobile Wallet,Completed,244,3,16
+692,3/10/2026,Installment,Cancelled,144,3,15
+693,4/23/2026,Credit Card,Completed,81,2,9
+694,1/21/2026,Debit Card,Completed,146,1,7
+695,1/17/2026,Debit Card,Completed,201,1,7
+696,4/30/2026,Cash,Completed,52,3,17
+697,6/26/2026,Installment,Completed,126,1,5
+698,6/26/2026,Mobile Wallet,Completed,224,2,12
+699,5/21/2026,Mobile Wallet,Completed,147,1,5
+700,1/13/2026,Mobile Wallet,Completed,8,2,11
+701,2/15/2026,Cash,Completed,29,1,3
+702,2/15/2026,Cash,Returned,180,2,13
+703,5/2/2026,Cash,Completed,85,2,11
+704,6/29/2026,Debit Card,Completed,195,1,4
+705,4/5/2026,Debit Card,Completed,90,3,17
+706,2/6/2026,Installment,Completed,347,3,17
+707,4/27/2026,Debit Card,Returned,106,3,15
+708,4/22/2026,Installment,Returned,329,3,18
+709,3/7/2026,Installment,Returned,165,2,13
+710,5/5/2026,Credit Card,Completed,306,1,8
+711,2/7/2026,Credit Card,Pending,79,3,17
+712,4/5/2026,Mobile Wallet,Cancelled,191,2,12
+713,3/20/2026,Cash,Completed,118,3,17
+714,5/10/2026,Mobile Wallet,Completed,150,2,13
+715,1/25/2026,Cash,Completed,301,2,12
+716,5/1/2026,Debit Card,Cancelled,309,2,10
+717,6/5/2026,Debit Card,Completed,285,1,1
+718,6/10/2026,Mobile Wallet,Returned,150,1,3
+719,4/27/2026,Debit Card,Pending,187,1,7
+720,1/16/2026,Unknown,Unknown,273,1,1
+721,2/19/2026,Installment,Cancelled,347,3,18
+722,3/7/2026,Installment,Returned,320,1,7
+723,4/4/2026,Mobile Wallet,Completed,138,1,5
+724,5/27/2026,Cash,Completed,73,1,5
+725,5/8/2026,Debit Card,Completed,159,1,5
+726,3/20/2026,Credit Card,Completed,236,1,3
+727,1/14/2026,Cash,Completed,216,3,18
+728,2/28/2026,Mobile Wallet,Completed,318,2,10
+729,1/25/2026,Installment,Unknown,103,3,15
+730,1/28/2026,Cash,Completed,130,1,5
+731,3/7/2026,Mobile Wallet,Completed,318,2,11
+732,2/24/2026,Mobile Wallet,Completed,49,2,14
+733,3/13/2026,Credit Card,Unknown,142,3,17
+734,5/10/2026,Mobile Wallet,Completed,108,1,7
+735,1/17/2026,Installment,Completed,326,2,12
+736,6/23/2026,Debit Card,Completed,243,3,16
+737,4/6/2026,Cash,Returned,54,2,9
+738,5/5/2026,Installment,Completed,282,1,5
+739,3/15/2026,Mobile Wallet,Unknown,311,1,8
+740,3/6/2026,Debit Card,Cancelled,257,2,12
+741,4/24/2026,Debit Card,Completed,161,3,18
+742,1/8/2026,Unknown,Completed,283,1,6
+743,1/30/2026,Mobile Wallet,Completed,315,2,11
+744,6/26/2026,Installment,Completed,236,1,5
+745,4/26/2026,Credit Card,Returned,329,1,5
+746,3/27/2026,Installment,Completed,312,2,10
+747,6/27/2026,Credit Card,Completed,26,3,17
+748,1/29/2026,Unknown,Unknown,265,1,5
+749,4/5/2026,Debit Card,Completed,38,1,2
+750,4/3/2026,Installment,Completed,92,2,12
+751,2/25/2026,Mobile Wallet,Completed,28,2,12
+752,1/6/2026,Credit Card,Completed,142,1,4
+753,6/5/2026,Credit Card,Completed,93,2,9
+754,2/25/2026,Mobile Wallet,Completed,164,2,13
+755,1/8/2026,Mobile Wallet,Completed,233,1,2
+756,3/5/2026,Credit Card,Completed,100,1,5
+757,4/20/2026,Credit Card,Completed,216,1,7
+758,4/20/2026,Credit Card,Completed,257,1,2
+759,1/1/2026,Debit Card,Completed,5,1,6
+760,4/14/2026,Cash,Cancelled,67,1,5
+761,4/22/2026,Cash,Returned,155,2,12
+762,2/11/2026,Cash,Completed,183,2,13
+763,1/24/2026,Installment,Completed,158,3,17
+764,6/17/2026,Unknown,Completed,139,1,2
+765,6/23/2026,Cash,Completed,89,1,4
+766,6/9/2026,Debit Card,Returned,347,1,5
+767,6/15/2026,Credit Card,Completed,236,1,3
+768,1/8/2026,Credit Card,Cancelled,291,3,17
+769,6/10/2026,Cash,Returned,148,1,3
+770,3/5/2026,Credit Card,Pending,196,3,16
+771,5/5/2026,Mobile Wallet,Completed,189,2,10
+772,5/1/2026,Debit Card,Completed,39,2,11
+773,6/20/2026,Cash,Completed,234,3,15
+774,5/6/2026,Debit Card,Cancelled,83,3,15
+775,5/29/2026,Credit Card,Completed,14,2,13
+776,4/12/2026,Cash,Cancelled,215,3,16
+777,1/18/2026,Installment,Completed,347,3,16
+778,5/16/2026,Debit Card,Unknown,35,3,15
+779,5/15/2026,Credit Card,Completed,239,1,6
+780,5/9/2026,Debit Card,Returned,264,3,15
+781,3/23/2026,Cash,Pending,26,3,17
+782,2/2/2026,Installment,Cancelled,159,2,14
+783,3/20/2026,Cash,Completed,176,2,13
+784,5/13/2026,Cash,Completed,264,1,1
+785,5/1/2026,Credit Card,Pending,150,3,15
+786,6/11/2026,Mobile Wallet,Completed,54,2,9
+787,5/20/2026,Cash,Completed,139,1,3
+788,2/10/2026,Mobile Wallet,Cancelled,214,1,8
+789,4/5/2026,Debit Card,Cancelled,51,3,18
+790,3/7/2026,Mobile Wallet,Cancelled,11,2,13
+791,5/9/2026,Credit Card,Returned,263,2,13
+792,1/18/2026,Credit Card,Pending,118,1,7
+793,5/10/2026,Credit Card,Returned,321,2,9
+794,6/30/2026,Installment,Returned,253,1,6
+795,2/12/2026,Mobile Wallet,Cancelled,110,1,5
+796,2/16/2026,Cash,Completed,310,1,1
+797,3/31/2026,Debit Card,Completed,297,3,16
+798,5/27/2026,Credit Card,Completed,212,2,9
+799,2/19/2026,Mobile Wallet,Completed,151,1,5
+800,1/26/2026,Mobile Wallet,Unknown,77,3,15
+801,2/25/2026,Mobile Wallet,Completed,165,2,9
+802,3/2/2026,Unknown,Completed,78,2,14
+803,3/18/2026,Mobile Wallet,Completed,126,1,8
+804,1/6/2026,Installment,Cancelled,150,1,5
+805,1/18/2026,Mobile Wallet,Completed,59,3,16
+806,6/8/2026,Cash,Returned,151,2,13
+807,4/6/2026,Installment,Completed,106,2,14
+808,5/29/2026,Mobile Wallet,Completed,70,2,12
+809,4/5/2026,Installment,Pending,102,2,11
+810,3/29/2026,Mobile Wallet,Completed,116,3,16
+811,4/5/2026,Cash,Returned,73,1,3
+812,2/20/2026,Mobile Wallet,Completed,253,3,16
+813,4/26/2026,Debit Card,Completed,326,3,18
+814,5/6/2026,Installment,Completed,228,2,12
+815,1/5/2026,Cash,Completed,11,2,12
+816,5/26/2026,Mobile Wallet,Completed,63,2,14
+817,6/28/2026,Debit Card,Pending,265,2,13
+818,2/11/2026,Debit Card,Cancelled,224,3,17
+819,2/25/2026,Mobile Wallet,Cancelled,139,2,9
+820,1/1/2026,Debit Card,Cancelled,166,1,3
+821,2/25/2026,Credit Card,Completed,8,1,6
+822,1/26/2026,Credit Card,Completed,326,2,12
+823,3/31/2026,Credit Card,Completed,206,1,3
+824,6/24/2026,Mobile Wallet,Completed,35,1,2
+825,4/13/2026,Cash,Pending,339,2,13
+826,2/23/2026,Credit Card,Returned,310,1,8
+827,1/5/2026,Installment,Pending,240,2,12
+828,6/29/2026,Debit Card,Cancelled,141,1,6
+829,6/7/2026,Cash,Completed,312,3,16
+830,6/15/2026,Debit Card,Returned,272,1,6
+831,3/16/2026,Mobile Wallet,Cancelled,263,2,10
+832,3/17/2026,Unknown,Completed,346,2,11
+833,3/3/2026,Mobile Wallet,Pending,268,1,2
+834,2/18/2026,Mobile Wallet,Completed,103,1,5
+835,5/3/2026,Unknown,Completed,71,2,10
+836,6/9/2026,Cash,Completed,178,1,5
+837,5/16/2026,Credit Card,Completed,81,2,12
+838,6/25/2026,Credit Card,Completed,288,3,17
+839,6/11/2026,Mobile Wallet,Cancelled,310,1,8
+840,4/4/2026,Unknown,Unknown,39,2,14
+841,4/5/2026,Debit Card,Completed,135,2,11
+842,2/14/2026,Mobile Wallet,Completed,209,1,4
+843,4/16/2026,Cash,Completed,35,1,6
+844,6/9/2026,Installment,Returned,5,1,7
+845,5/1/2026,Installment,Returned,35,1,8
+846,3/13/2026,Debit Card,Completed,216,2,9
+847,6/11/2026,Mobile Wallet,Completed,118,1,5
+848,2/5/2026,Installment,Cancelled,251,1,5
+849,3/10/2026,Mobile Wallet,Completed,129,1,3
+850,6/25/2026,Debit Card,Returned,347,1,6
+851,2/27/2026,Mobile Wallet,Cancelled,162,2,9
+852,5/15/2026,Cash,Pending,324,1,7
+853,6/13/2026,Credit Card,Completed,188,1,2
+854,3/1/2026,Mobile Wallet,Pending,240,2,12
+855,3/15/2026,Debit Card,Completed,73,2,12
+856,4/13/2026,Debit Card,Cancelled,310,3,17
+857,4/2/2026,Mobile Wallet,Cancelled,218,2,12
+858,1/30/2026,Mobile Wallet,Completed,31,2,13
+859,5/28/2026,Cash,Cancelled,307,2,14
+860,2/28/2026,Credit Card,Returned,216,2,12
+861,3/27/2026,Installment,Completed,201,1,5
+862,3/7/2026,Debit Card,Returned,276,2,10
+863,4/5/2026,Mobile Wallet,Completed,191,3,17
+864,6/24/2026,Mobile Wallet,Cancelled,339,1,7
+865,5/9/2026,Credit Card,Returned,89,1,5
+866,2/1/2026,Cash,Completed,245,3,18
+867,6/15/2026,Debit Card,Completed,9,1,8
+868,3/12/2026,Debit Card,Cancelled,84,2,13
+869,4/23/2026,Cash,Cancelled,314,1,5
+870,4/27/2026,Mobile Wallet,Completed,185,3,15
+871,3/18/2026,Credit Card,Pending,115,2,13
+872,4/24/2026,Debit Card,Completed,214,1,7
+873,3/2/2026,Mobile Wallet,Cancelled,259,2,14
+874,4/6/2026,Mobile Wallet,Returned,196,2,13
+875,6/27/2026,Installment,Completed,161,3,17
+876,6/4/2026,Installment,Completed,119,3,15
+877,1/20/2026,Debit Card,Completed,44,1,7
+878,5/3/2026,Installment,Cancelled,331,2,13
+879,5/22/2026,Installment,Completed,23,1,1
+880,6/23/2026,Debit Card,Returned,347,3,18
+881,5/4/2026,Credit Card,Pending,238,3,16
+882,5/23/2026,Cash,Completed,212,3,17
+883,6/13/2026,Debit Card,Completed,305,2,9
+884,4/18/2026,Credit Card,Completed,106,2,13
+885,6/26/2026,Debit Card,Completed,58,1,6
+886,2/16/2026,Cash,Pending,301,2,13
+887,4/22/2026,Cash,Completed,174,3,16
+888,5/28/2026,Mobile Wallet,Cancelled,246,3,18
+889,2/5/2026,Mobile Wallet,Completed,171,2,13
+890,6/5/2026,Credit Card,Returned,117,3,18
+891,3/5/2026,Cash,Returned,283,2,13
+892,4/2/2026,Mobile Wallet,Completed,302,1,7
+893,2/12/2026,Credit Card,Completed,234,1,8
+894,5/1/2026,Mobile Wallet,Completed,116,2,12
+895,1/19/2026,Installment,Cancelled,142,1,7
+896,1/19/2026,Credit Card,Completed,244,2,11
+897,3/31/2026,Credit Card,Completed,142,1,7
+898,2/10/2026,Cash,Returned,207,2,13
+899,1/13/2026,Credit Card,Pending,106,3,18
+900,6/25/2026,Debit Card,Completed,246,1,2
+901,5/13/2026,Unknown,Unknown,280,1,3
+902,5/27/2026,Installment,Completed,130,1,6
+903,6/6/2026,Credit Card,Completed,347,1,6
+904,1/6/2026,Credit Card,Completed,151,1,8
+905,4/1/2026,Credit Card,Completed,339,1,2
+906,2/19/2026,Debit Card,Pending,181,1,2
+907,4/16/2026,Mobile Wallet,Completed,54,1,5
+908,6/27/2026,Mobile Wallet,Completed,89,1,1
+909,1/9/2026,Mobile Wallet,Returned,331,1,6
+910,4/28/2026,Cash,Returned,274,2,13
+911,5/9/2026,Mobile Wallet,Completed,285,2,12
+912,3/3/2026,Cash,Completed,158,1,6
+913,5/12/2026,Installment,Completed,46,3,15
+914,3/10/2026,Installment,Completed,200,3,15
+915,5/26/2026,Installment,Completed,263,2,11
+916,5/3/2026,Mobile Wallet,Completed,350,1,5
+917,4/5/2026,Cash,Cancelled,35,1,5
+918,3/14/2026,Cash,Returned,298,2,12
+919,1/12/2026,Installment,Unknown,7,1,7
+920,4/20/2026,Mobile Wallet,Completed,283,1,5
+921,5/10/2026,Cash,Returned,208,2,12
+922,6/9/2026,Cash,Completed,339,3,17
+923,1/13/2026,Unknown,Unknown,244,1,7
+924,5/13/2026,Cash,Completed,109,1,5
+925,5/22/2026,Cash,Pending,233,3,17
+926,3/24/2026,Cash,Completed,263,3,15
+927,4/22/2026,Installment,Completed,128,1,5
+928,2/8/2026,Cash,Completed,329,1,5
+929,1/2/2026,Installment,Returned,329,1,4
+930,1/13/2026,Credit Card,Pending,187,1,4
+931,4/30/2026,Debit Card,Pending,108,1,5
+932,4/12/2026,Cash,Pending,323,2,13
+933,6/26/2026,Credit Card,Completed,89,2,13
+934,6/11/2026,Unknown,Unknown,294,2,11
+935,1/8/2026,Debit Card,Completed,210,3,17
+936,2/18/2026,Installment,Completed,150,3,17
+937,4/12/2026,Unknown,Unknown,232,1,3
+938,4/27/2026,Mobile Wallet,Cancelled,328,1,5
+939,6/23/2026,Debit Card,Cancelled,78,3,15
+940,6/27/2026,Debit Card,Pending,73,1,6
+941,3/23/2026,Installment,Completed,286,1,6
+942,4/22/2026,Unknown,Completed,58,1,5
+943,3/6/2026,Cash,Completed,216,2,9
+944,5/13/2026,Installment,Completed,42,2,10
+945,4/20/2026,Debit Card,Completed,228,2,9
+946,4/6/2026,Credit Card,Completed,54,2,13
+947,5/31/2026,Credit Card,Completed,139,1,1
+948,6/25/2026,Cash,Completed,276,1,8
+949,2/5/2026,Debit Card,Returned,310,3,16
+950,6/14/2026,Debit Card,Cancelled,36,1,7
+951,1/20/2026,Debit Card,Pending,102,3,17
+952,2/7/2026,Debit Card,Returned,14,3,15
+953,1/5/2026,Installment,Unknown,118,2,12
+954,5/19/2026,Mobile Wallet,Pending,302,1,6
+955,2/3/2026,Installment,Cancelled,5,3,15
+956,1/25/2026,Mobile Wallet,Pending,51,3,15
+957,5/13/2026,Debit Card,Cancelled,17,3,17
+958,1/6/2026,Mobile Wallet,Cancelled,236,2,13
+959,6/18/2026,Debit Card,Returned,158,2,12
+960,6/5/2026,Mobile Wallet,Pending,104,2,12
+961,3/31/2026,Credit Card,Completed,312,1,8
+962,1/18/2026,Debit Card,Completed,32,1,6
+963,1/21/2026,Cash,Completed,297,1,7
+964,2/26/2026,Credit Card,Pending,329,1,7
+965,6/25/2026,Installment,Completed,263,3,15
+966,3/9/2026,Mobile Wallet,Cancelled,5,1,7
+967,2/26/2026,Mobile Wallet,Completed,253,1,5
+968,2/22/2026,Installment,Cancelled,347,1,5
+969,4/16/2026,Credit Card,Returned,7,3,15
+970,1/30/2026,Installment,Cancelled,247,2,13
+971,4/5/2026,Installment,Cancelled,347,1,4
+972,5/5/2026,Credit Card,Cancelled,218,2,12
+973,6/13/2026,Credit Card,Completed,265,3,18
+974,4/25/2026,Installment,Completed,293,1,2
+975,3/31/2026,Mobile Wallet,Completed,150,1,8
+976,6/11/2026,Mobile Wallet,Pending,272,2,14
+977,3/6/2026,Cash,Unknown,265,1,5
+978,5/11/2026,Credit Card,Completed,103,3,16
+979,6/28/2026,Credit Card,Completed,207,3,17
+980,4/23/2026,Installment,Returned,334,2,14
+981,6/22/2026,Credit Card,Returned,330,1,7
+982,6/15/2026,Installment,Completed,128,1,5
+983,2/26/2026,Cash,Completed,125,3,16
+984,2/14/2026,Debit Card,Completed,73,3,18
+985,4/16/2026,Cash,Pending,171,2,9
+986,6/7/2026,Cash,Completed,59,1,5
+987,3/3/2026,Debit Card,Completed,265,2,9
+988,5/16/2026,Debit Card,Completed,138,1,5
+989,6/30/2026,Debit Card,Completed,191,3,18
+990,1/3/2026,Mobile Wallet,Completed,233,2,14
+991,6/29/2026,Cash,Completed,264,1,2
+992,2/4/2026,Cash,Unknown,246,1,7
+993,5/1/2026,Mobile Wallet,Cancelled,51,3,16
+994,6/13/2026,Credit Card,Completed,11,1,4
+995,6/15/2026,Cash,Completed,347,3,18
+996,4/20/2026,Credit Card,Completed,171,3,16
+997,5/7/2026,Mobile Wallet,Pending,271,3,17
+998,6/29/2026,Mobile Wallet,Completed,263,1,7
+999,3/17/2026,Cash,Completed,41,1,2
+1000,3/3/2026,Credit Card,Completed,174,1,3
+1001,4/3/2026,Installment,Cancelled,118,2,13
+1002,2/19/2026,Debit Card,Completed,167,2,9
+1003,5/12/2026,Installment,Completed,150,1,2
+1004,2/24/2026,Debit Card,Returned,73,1,7
+1005,3/16/2026,Credit Card,Cancelled,94,1,2
+1006,1/30/2026,Cash,Cancelled,77,1,7
+1007,4/2/2026,Unknown,Returned,219,2,13
+1008,1/12/2026,Credit Card,Completed,225,2,12
+1009,6/21/2026,Credit Card,Completed,12,2,10
+1010,4/5/2026,Cash,Unknown,220,2,12
+1011,6/28/2026,Debit Card,Cancelled,147,2,9
+1012,5/27/2026,Debit Card,Completed,87,2,13
+1013,6/28/2026,Cash,Completed,182,1,5
+1014,5/13/2026,Debit Card,Cancelled,130,2,9
+1015,5/18/2026,Cash,Completed,113,3,16
+1016,2/20/2026,Debit Card,Completed,17,1,1
+1017,3/20/2026,Installment,Completed,100,2,11
+1018,6/29/2026,Mobile Wallet,Completed,93,3,16
+1019,2/26/2026,Cash,Cancelled,42,1,4
+1020,3/1/2026,Debit Card,Completed,308,2,12
+1021,6/27/2026,Installment,Pending,133,2,13
+1022,5/20/2026,Mobile Wallet,Completed,207,1,5
+1023,4/5/2026,Cash,Completed,32,2,12
+1024,3/5/2026,Cash,Pending,215,1,6
+1025,6/8/2026,Credit Card,Completed,313,2,14
+1026,4/12/2026,Cash,Pending,323,2,13
+1027,5/19/2026,Mobile Wallet,Returned,108,2,13
+1028,6/7/2026,Cash,Completed,252,1,3
+1029,1/13/2026,Debit Card,Returned,191,1,3
+1030,3/27/2026,Debit Card,Completed,316,1,7
+1031,2/20/2026,Unknown,Completed,251,2,12
+1032,4/28/2026,Installment,Returned,182,2,12
+1033,5/4/2026,Credit Card,Completed,214,1,1
+1034,1/6/2026,Credit Card,Cancelled,197,2,9
+1035,3/5/2026,Installment,Returned,172,1,7
+1036,5/19/2026,Mobile Wallet,Returned,29,2,12
+1037,6/30/2026,Mobile Wallet,Completed,203,1,5
+1038,4/20/2026,Cash,Completed,78,3,17
+1039,6/24/2026,Cash,Returned,214,2,12
+1040,6/7/2026,Installment,Completed,178,1,5
+1041,2/17/2026,Debit Card,Pending,83,1,4
+1042,2/9/2026,Unknown,Completed,84,2,10
+1043,2/25/2026,Debit Card,Completed,229,2,11
+1044,4/28/2026,Credit Card,Returned,274,1,3
+1045,6/13/2026,Debit Card,Cancelled,44,1,3
+1046,1/24/2026,Cash,Cancelled,133,2,12
+1047,4/24/2026,Credit Card,Completed,93,1,7
+1048,2/4/2026,Cash,Cancelled,103,3,18
+1049,6/9/2026,Credit Card,Cancelled,290,1,7
+1050,2/25/2026,Cash,Pending,67,1,8
+1051,6/18/2026,Installment,Completed,310,3,17
+1052,6/30/2026,Debit Card,Returned,244,1,7
+1053,6/23/2026,Credit Card,Returned,219,1,6
+1054,2/25/2026,Credit Card,Pending,111,2,12
+1055,6/5/2026,Mobile Wallet,Completed,308,1,6
+1056,6/16/2026,Mobile Wallet,Completed,256,3,16
+1057,6/28/2026,Mobile Wallet,Completed,171,1,3
+1058,3/21/2026,Credit Card,Completed,284,2,12
+1059,5/9/2026,Credit Card,Cancelled,326,2,12
+1060,2/14/2026,Credit Card,Returned,108,2,11
+1061,4/5/2026,Cash,Completed,219,3,16
+1062,2/28/2026,Mobile Wallet,Completed,89,1,2
+1063,6/24/2026,Cash,Pending,54,2,13
+1064,4/21/2026,Cash,Returned,138,1,2
+1065,5/18/2026,Cash,Completed,292,2,9
+1066,3/20/2026,Credit Card,Unknown,32,3,15
+1067,2/11/2026,Cash,Returned,274,2,12
+1068,3/14/2026,Debit Card,Returned,257,1,2
+1069,1/20/2026,Mobile Wallet,Returned,78,1,6
+1070,4/30/2026,Credit Card,Unknown,158,2,12
+1071,3/7/2026,Cash,Pending,58,2,11
+1072,4/13/2026,Cash,Unknown,224,2,13
+1073,6/5/2026,Debit Card,Completed,39,1,7
+1074,3/28/2026,Credit Card,Completed,292,2,12
+1075,2/15/2026,Mobile Wallet,Completed,8,2,14
+1076,6/15/2026,Credit Card,Cancelled,234,1,3
+1077,1/16/2026,Cash,Completed,312,2,12
+1078,2/25/2026,Cash,Completed,42,1,3
+1079,4/20/2026,Cash,Completed,220,1,4
+1080,4/17/2026,Cash,Pending,322,1,8
+1081,5/7/2026,Debit Card,Pending,150,3,15
+1082,6/4/2026,Debit Card,Pending,150,1,3
+1083,3/10/2026,Cash,Completed,122,2,13
+1084,6/15/2026,Debit Card,Returned,235,1,8
+1085,2/4/2026,Cash,Returned,276,2,14
+1086,5/29/2026,Credit Card,Returned,58,3,18
+1087,3/7/2026,Mobile Wallet,Returned,158,1,3
+1088,1/12/2026,Debit Card,Completed,207,3,15
+1089,3/25/2026,Credit Card,Unknown,347,1,2
+1090,5/21/2026,Mobile Wallet,Completed,114,3,16
+1091,5/5/2026,Unknown,Unknown,147,3,17
+1092,3/26/2026,Credit Card,Completed,234,1,7
+1093,2/15/2026,Installment,Completed,175,3,16
+1094,1/5/2026,Unknown,Unknown,287,3,16
+1095,5/5/2026,Installment,Returned,149,1,6
+1096,3/27/2026,Cash,Completed,260,1,6
+1097,3/5/2026,Cash,Completed,78,1,4
+1098,3/3/2026,Cash,Completed,334,3,17
+1099,6/3/2026,Credit Card,Completed,130,1,8
+1100,1/27/2026,Installment,Completed,291,2,12
+1101,5/7/2026,Cash,Cancelled,289,3,15
+1102,4/2/2026,Credit Card,Completed,334,1,2
+1103,1/21/2026,Mobile Wallet,Completed,244,1,7
+1104,2/24/2026,Installment,Completed,39,2,9
+1105,1/30/2026,Credit Card,Completed,210,1,5
+1106,4/23/2026,Credit Card,Completed,54,2,10
+1107,1/12/2026,Mobile Wallet,Unknown,290,2,9
+1108,5/30/2026,Credit Card,Cancelled,165,1,7
+1109,5/2/2026,Mobile Wallet,Completed,329,1,5
+1110,6/9/2026,Cash,Completed,158,1,7
+1111,4/17/2026,Cash,Pending,22,2,10
+1112,5/14/2026,Cash,Completed,175,3,17
+1113,4/30/2026,Credit Card,Completed,331,1,6
+1114,3/13/2026,Installment,Pending,93,1,6
+1115,6/9/2026,Credit Card,Completed,85,3,16
+1116,1/5/2026,Credit Card,Cancelled,182,2,14
+1117,2/25/2026,Credit Card,Completed,220,1,3
+1118,3/20/2026,Debit Card,Completed,216,2,12
+1119,3/19/2026,Mobile Wallet,Completed,284,1,7
+1120,1/2/2026,Mobile Wallet,Completed,229,1,4
+1121,5/19/2026,Mobile Wallet,Completed,135,1,2
+1122,2/17/2026,Debit Card,Pending,39,2,11
+1123,4/3/2026,Credit Card,Unknown,117,3,17
+1124,4/5/2026,Credit Card,Pending,39,3,15
+1125,2/8/2026,Credit Card,Pending,317,1,1
+1126,3/3/2026,Credit Card,Completed,324,2,10
+1127,1/7/2026,Cash,Pending,200,3,15
+1128,6/28/2026,Cash,Completed,171,1,8
+1129,1/19/2026,Debit Card,Returned,108,2,9
+1130,2/25/2026,Credit Card,Completed,142,1,3
+1131,1/6/2026,Credit Card,Cancelled,251,1,7
+1132,4/20/2026,Installment,Completed,114,2,13
+1133,3/4/2026,Cash,Pending,268,2,12
+1134,6/28/2026,Cash,Completed,169,2,13
+1135,4/4/2026,Cash,Cancelled,239,3,15
+1136,5/26/2026,Credit Card,Returned,251,2,9
+1137,5/27/2026,Credit Card,Pending,54,3,17
+1138,2/11/2026,Installment,Returned,253,3,16
+1139,4/7/2026,Debit Card,Completed,272,3,16
+1140,6/29/2026,Mobile Wallet,Completed,309,2,12
+1141,3/3/2026,Mobile Wallet,Completed,268,3,18
+1142,1/26/2026,Cash,Completed,219,1,3
+1143,3/4/2026,Cash,Returned,347,3,17
+1144,5/12/2026,Debit Card,Pending,265,2,9
+1145,4/2/2026,Cash,Completed,275,3,18
+1146,6/18/2026,Debit Card,Completed,110,1,2
+1147,4/6/2026,Debit Card,Completed,203,2,9
+1148,4/3/2026,Mobile Wallet,Completed,246,1,2
+1149,6/15/2026,Mobile Wallet,Cancelled,346,2,14
+1150,3/20/2026,Installment,Completed,326,2,14
+1151,1/6/2026,Credit Card,Cancelled,251,1,7
+1152,1/30/2026,Credit Card,Completed,321,1,7
+1153,3/31/2026,Debit Card,Completed,297,3,16
+1154,3/15/2026,Mobile Wallet,Completed,148,3,15
+1155,5/4/2026,Cash,Pending,347,2,13
+1156,5/7/2026,Credit Card,Cancelled,20,3,18
+1157,2/27/2026,Cash,Completed,5,2,13
+1158,2/21/2026,Debit Card,Completed,184,2,13
+1159,5/9/2026,Cash,Completed,163,1,5
+1160,5/19/2026,Mobile Wallet,Completed,231,1,5
+1161,6/27/2026,Mobile Wallet,Returned,258,3,15
+1162,2/11/2026,Credit Card,Completed,117,2,13
+1163,3/5/2026,Credit Card,Cancelled,216,2,12
+1164,5/3/2026,Mobile Wallet,Completed,42,1,7
+1165,4/28/2026,Credit Card,Completed,148,1,6
+1166,1/2/2026,Installment,Returned,200,2,10
+1167,3/18/2026,Debit Card,Returned,326,1,4
+1168,4/11/2026,Cash,Completed,165,2,12
+1169,5/17/2026,Mobile Wallet,Completed,334,2,13
+1170,1/2/2026,Credit Card,Completed,68,1,3
+1171,4/13/2026,Mobile Wallet,Unknown,31,3,16
+1172,6/5/2026,Debit Card,Completed,83,2,12
+1173,6/9/2026,Mobile Wallet,Completed,35,2,13
+1174,1/2/2026,Credit Card,Completed,103,1,8
+1175,6/19/2026,Installment,Cancelled,171,1,8
+1176,6/2/2026,Mobile Wallet,Completed,339,3,17
+1177,4/6/2026,Cash,Pending,200,1,8
+1178,4/26/2026,Cash,Cancelled,210,1,7
+1179,2/20/2026,Debit Card,Cancelled,220,2,13
+1180,6/15/2026,Debit Card,Completed,329,1,8
+1181,1/1/2026,Credit Card,Completed,163,1,3
+1182,1/3/2026,Mobile Wallet,Completed,43,2,13
+1183,4/16/2026,Mobile Wallet,Returned,3,1,5
+1184,2/25/2026,Installment,Completed,225,1,7
+1185,3/31/2026,Credit Card,Completed,259,1,1
+1186,5/12/2026,Installment,Completed,268,1,6
+1187,5/1/2026,Credit Card,Cancelled,78,2,10
+1188,4/16/2026,Debit Card,Completed,7,1,6
+1189,5/21/2026,Cash,Cancelled,109,2,11
+1190,2/3/2026,Mobile Wallet,Completed,350,2,12
+1191,3/17/2026,Mobile Wallet,Pending,289,1,4
+1192,6/21/2026,Credit Card,Completed,119,1,8
+1193,6/5/2026,Installment,Completed,70,1,5
+1194,4/26/2026,Mobile Wallet,Cancelled,138,1,5
+1195,4/16/2026,Cash,Completed,221,1,3
+1196,6/19/2026,Cash,Pending,40,1,7
+1197,6/15/2026,Installment,Pending,40,1,8
+1198,5/18/2026,Installment,Returned,158,1,2
+1199,2/4/2026,Installment,Returned,336,3,16
+1200,5/27/2026,Unknown,Unknown,163,1,3

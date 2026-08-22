@@ -1,0 +1,1201 @@
+sale_id,sale_date,payment_method,order_status,customer_id,store_id,employee_id
+1,2026-01-25,"Credit Card",Pending,216,1,7
+2,2026-04-27,Cash,Completed,285,1,2
+3,2026-05-29," Debit Card "," Pending",28,1,5
+4,2026-06-17,"Credit Card",Pending,212,1,5
+5,2026-01-29,"Mobile Wallet",Completed,59,3,15
+6,2026-06-28," Installment",Completed,80,3,15
+7,2026-06-15,"Debit Card",Pending,155,1,7
+8,2026-05-25,Cash,Cancelled,67,1,6
+9,2026-06-05,"Mobile Wallet","Completed ",207,1,8
+10,2026-02-08,Installment,Completed,163,1,6
+11,2026-04-05,"Mobile Wallet",Completed,67,1,7
+12,2026-06-09,Installment,Returned,240,3,17
+13,2026-06-19,Cash,Completed,115,3,18
+14,2026-05-04,Installment,Returned,53,1,3
+15,2026-04-11,"Credit Card",Cancelled,2,2,13
+16,2026-01-01,"Mobile Wallet",Pending,185,2,10
+17,2026-05-16,"Debit Card",Completed,74,2,12
+18,2026-01-21,"Debit Card",Completed,318,2,12
+19,2026-03-09,Cash,Pending,321,1,7
+20,2026-05-16,"Mobile Wallet",Returned,347,1,1
+21,2026-04-04,"   ","   ",103,2,10
+22,2026-02-03,Installment,Returned,2,1,8
+23,2026-06-26,"Debit Card",Returned##,42,1,8
+24,2026-06-19,Installment,Completed,155,1,1
+25,2026-06-15,"Mobile Wallet",Completed,251,1,6
+26,2026-02-28,"Credit Card",Completed,81,1,5
+27,2026-06-09,"DEBIT CARD",Returned,196,1,2
+28,2026-05-10,"Credit Card",Completed,103,1,5
+29,2026-04-05,"Credit Card",Cancelled,231,2,9
+30,2026-02-20,"Credit Card",Completed,234,2,13
+31,2026-01-18,"Mobile Wallet",Returned,283,3,15
+32,2026-01-25,Installment,Completed,324,1,6
+33,2026-05-11,"Mobile Wallet",Completed,150,3,16
+34,2026-01-19,Installment,Completed,73,3,16
+35,2026-01-26,"Credit Card",Cancelled,297,3,17
+36,2026-05-17,Installment,Pending,147,2,12
+37,2026-03-20,Installment,Completed,340,1,4
+38,2026-02-24,"Mobile Wallet",Cancelled,42,1,6
+39,2026-04-08,Installment,Returned,253,2,9
+40,2026-06-11,"Mobile Wallet",Pending,272,2,14
+41,2026-05-27,Cash,Completed,315,2,9
+42,2026-03-15,Cash,Cancelled,258,1,5
+43,2026-04-16,"Debit Card",Pending,276,3,17
+44,2026-03-09,Cash,Completed,118,1,2
+45,2026-05-16,,Cancelled,318,1,5
+46,2026-03-05,"Debit Card",Complete,125,2,11
+47,2026-01-21,Installment,Cancelled,244,2,10
+48,2026-03-11,"Debit Card",Completed,272,1,4
+49,2026-01-06,installment," Completed",207,3,17
+50,2026-02-02,Installment,Completed,103,3,17
+51,2026-05-13,Installment,Completed,31,3,16
+52,2026-06-21,"Credit Card",Pending,103,1,7
+53,2026-01-19,Cash,Cancelled,305,2,11
+54,2026-03-12,Installment,Cancelled,67,2,10
+55,2026-05-16,"Credit Card",Completed,158,1,3
+56,2026-03-14,"Credit Card",Returned,87,3,17
+57,2026-05-17,Cash,Completed,11,2,12
+58,2026-06-05,"Mobile Wallet",Returned,289,1,6
+59,2026-04-23,"Credit Card",Cancelled,265,1,8
+60,2026-03-31,"Credit Card",Pending,226,3,16
+61,2026-03-09,"Debit Card",Returned,118,1,7
+62,2026-06-17,"Mobile Wallet",Completed,20,3,18
+63,2026-06-10,Installment,Completed,167,1,5
+64,2026-02-02,"Mobile Wallet",Completed,246,3,16
+65,2026-06-05,Cash,Completed,310,3,15
+66,2026-05-22,"Debit Card",Pending,161,1,8
+67,2026-06-28,Installment,Cancelled,13,2,13
+68,2026-06-24,Installment,Cancelled,305,1,4
+69,2026-05-17,"Debit Card",Returned,118,1,7
+70,2026-05-11,"Mobile Wallet",Completed,233,2,9
+71,2026-01-05,Installment,Returned,263,2,13
+72,2026-06-19,"Credit Card",Completed,118,1,3
+73,2026-02-24,Cash,Completed,236,3,17
+74,2026-01-16,"Mobile Wallet",Completed,184,2,12
+75,2026-06-29,"Credit Card",Completed,103,2,10
+76,2026-06-26,Installment,Cancelled,35,1,1
+77,2026-04-21,Installment,CANCELLED,80,2,14
+78,2026-06-23,Cash,Returned,340,2,10
+79,2026-04-22,Installment,Returned,135,2,12
+80,2026-03-07,Installment,Returned,320,1,7
+81,2026-02-12,,Cancelled,234,1,4
+82,2026-03-01,"Mobile Wallet",Cancelled,347,1,5
+83,2026-06-12,"Debit Card",Completed,268,1,7
+84,2026-02-27,Cash,Completed,29,1,3
+85,2026-06-13,"Debit Card",Returned,348,3,16
+86,2026-04-14,"Mobile Wallet",Completed,157,1,3
+87,2026-06-02,"Mobile Wallet",Completed,70,1,6
+88,2026-06-30,"Credit Card",Pending,272,1,3
+89,2026-04-16,"Debit Card",Completed,318,2,13
+90,2026-06-27,"Debit Card",Returned,28,1,1
+91,2026-02-05,"Credit Card",Cancelled,314,3,16
+92,2026-01-08,"Mobile Wallet",Completed,324,2,13
+93,2026-02-27,"Mobile Wallet",Pending,114,1,3
+94,2026-05-17,"Mobile Wallet",Completed,247,1,1
+95,2026-05-11,Cash,Pending,296,2,12
+96,2026-02-25,"Mobile Wallet",Completed,139,3,15
+97,2026-04-23,"Debit Card",Completed,326,2,12
+98,2026-04-24,Cash,Completed,143,3,17
+99,2026-05-21,Cash,Returned,336,1,5
+100,2026-03-02,"Credit Card",Completed,265,2,12
+101,2026-03-03,"Credit Card",Completed,336,1,5
+102,2026-04-04,"Debit Card",Completed,314,1,6
+103,2026-04-26,"Credit Card",Completed,224,1,2
+104,2026-06-14,Installment,Completed,8,1,1
+105,2026-02-13,Installment,Cancelled,24,2,12
+106,2026-02-28,"Mobile Wallet",Completed,185,2,11
+107,2026-02-21,Cash,Completed,20,2,9
+108,2026-05-31,Installment,Completed,284,3,15
+109,2026-06-03,Installment,Completed,310,2,14
+110,2026-01-24,Cash,Completed,87,2,13
+111,2026-05-27,Cash,Completed,172,1,7
+112,2026-01-23,"credit card",Cancelled,220,1,8
+113,2026-05-22,Cash,Completed,7,1,6
+114,2026-06-05,Installment,Completed,37,3,18
+115,2026-04-05,Cash,Completed,23,2,13
+116,2026-05-04,"Credit Card",Completed,276,2,12
+117,2026-03-03,"Mobile Wallet",Completed,150,3,17
+118,2026-05-16,Installment,Completed,240,3,15
+119,2026-06-05,,Returned,339,3,16
+120,2026-01-01,Cash,Completed,67,2,9
+121,2026-05-06,"Credit Card",Cancelled,264,1,3
+122,2026-02-11,"Credit Card",Pending,59,1,4
+123,2026-02-18,NULL,,36,1,1
+124,2026-04-24,"Mobile Wallet",Completed,7,3,17
+125,2026-02-19,Cash,Cancelled,68,1,1
+126,2026-05-12,"Mobile Wallet",Cancelled,312,2,13
+127,2026-04-19,"Credit Card",Completed,266,2,13
+128,2026-03-22,"Mobile Wallet",Completed,98,1,3
+129,2026-03-08,Cash,Pending,67,2,11
+130,2026-03-03,Cash,Cancelled,174,2,10
+131,2026-01-08,"Mobile Wallet",Completed,106,1,7
+132,2026-02-28,"Mobile Wallet",Completed,185,2,11
+133,2026-05-13,Installment,pending,305,1,6
+134,2026-01-06,"Credit Card",Completed,265,2,10
+135,2026-05-09,"Credit Card",Cancelled,42,1,2
+136,2026-05-05,"Mobile Wallet",Completed,317,1,7
+137,2026-02-24,Cash,Cancelled,323,1,3
+138,2026-03-15,"Debit Card",Completed,80,2,12
+139,2026-05-05,"Mobile Wallet",Completed,313,2,13
+140,2026-01-07,installment,completed,15,3,15
+141,2026-03-13,Installment,Completed,8,1,3
+142,2026-03-06,"Mobile Wallet",Pending,87,1,2
+143,2026-04-20,"Debit Card",Completed,148,1,6
+144,2026-04-20,Cash,Completed,113,1,7
+145,2026-04-14,NULL,Completed,309,3,17
+146,2026-06-18,Cash,Completed,212,2,9
+147,2026-04-20,"Mobile Wallet",Completed,324,3,15
+148,2026-06-08,"Credit Card",Cancelled,54,2,12
+149,2026-06-07,"Debit Card",Completed,99,1,4
+150,2026-06-30,"Debit Card",Completed,207,1,1
+151,2026-02-25,"Mobile Wallet",Completed,165,2,9
+152,2026-02-08,"Debit Card",Pending,83,2,13
+153,2026-05-15,Installment,completed,279,1,3
+154,2026-06-08,"Credit Card!!",Completed,196,3,17
+155,2026-02-20,"Credit Card",pending,183,3,16
+156,2026-01-13,,Cancelled,165,2,12
+157,2026-04-26,"Credit Card",Completed,309,2,12
+158,2026-01-18,Installment,Completed,85,2,12
+159,2026-02-28,"Mobile Wallet",Completed,315,3,18
+160,2026-01-24,Installment,Completed,165,1,1
+161,2026-06-30,Cash,Completed,144,3,16
+162,2026-03-27,Cash,Cancelled,32,2,12
+163,2026-03-08,"Credit Card",Completed,330,1,7
+164,2026-04-16,Cash,Completed,231,1,4
+165,2026-05-12,"Mobile Wallet"," Returned",108,3,16
+166,2026-02-27,"Mobile Wallet",Completed,207,1,5
+167,2026-04-28,"Mobile Wallet",Completed,310,1,7
+168,2026-02-25,,NULL,133,1,7
+169,2026-02-24,Cash,Completed,306,1,6
+170,2026-05-11,Cash,Completed,115,3,18
+171,2026-06-23,Installment,Pending,100,2,12
+172,2026-05-15,Cash,Pending,78,3,17
+173,2026-05-05,Cash,Pending,256,2,13
+174,2026-01-25,Cash,Completed,236,3,18
+175,2026-03-01,Cash,Completed,163,1,5
+176,2026-05-07,Cash,Pending,231,2,12
+177,2026-02-08,"Debit Card",Completed,78,3,17
+178,2026-06-09,Installment,Returned,231,1,5
+179,2026-01-13,"Credit Card",Completed,81,1,8
+180,2026-05-04,"Mobile Wallet",Completed,95,3,16
+181,2026-05-15,"Mobile Wallet",Completed,135,2,9
+182,2026-05-11,"Mobile Wallet",Cancelled,289,1,5
+183,2026-03-12,"Debit Card",Completed,289,3,16
+184,2026-06-01,Cash,Completed,283,1,6
+185,2026-04-25,Cash,Completed,161,1,7
+186,2026-03-11,Cash,Completed,103,1,7
+187,2026-01-01,"Credit Card",Completed,43,3,15
+188,2026-04-26,Cash,completed,77,3,15
+189,2026-06-03,"CREDIT CARD","Completed ",239,1,5
+190,2026-05-04,Cash,Completed,158,2,12
+191,2026-04-23,"Credit Card",Returned,8,2,10
+192,2026-02-09,"Mobile Wallet",Pending,229,2,14
+193,2026-04-19,"Debit Card",Completed,230,2,12
+194,2026-05-03,Installment,Completed,244,2,12
+195,2026-04-26,"Debit Card",Completed,196,2,12
+196,2026-06-16,"Debit Card",Completed,85,2,13
+197,2026-05-11,"Debit Card",Completed,14,1,7
+198,2026-04-21,"Credit Card",Cancelled,62,3,16
+199,2026-01-22,"Credit Card",Returned,73,2,12
+200,2026-02-10,"Credit Card",Completed,316,1,6
+201,2026-03-30,"Debit Card",Pending,11,3,15
+202,2026-01-21,"Credit Card",Completed,94,3,15
+203,2026-03-19,"Debit Card",Completed,11,3,17
+204,2026-06-25,"Credit Card",Pending,161,2,10
+205,2026-05-11,"Mobile Wallet",Completed,322,1,4
+206,2026-03-26,"Debit Card",Completed,329,2,13
+207,2026-05-02,Installment,Completed,257,1,1
+208,2026-03-29,"Mobile Wallet",Completed,54,2,12
+209,2026-02-15,"Credit Card",Returned,203,3,18
+210,2026-03-24,"Mobile Wallet",Completed,316,2,12
+211,2026-06-13,cash,Completed,256,3,17
+212,2026-02-01,Cash,Completed,43,1,6
+213,2026-06-14,"Debit Card",Completed,85,3,17
+214,2026-04-28,"Credit Card",Pending,216,2,11
+215,2026-01-07,"Debit Card",Completed,272,1,5
+216,2026-05-07,"Mobile Wallet",Cancelled,188,1,1
+217,2026-04-07,Installment,Completed,32,1,6
+218,2026-01-01,Installment,Pending,109,2,10
+219,2026-03-20,"Debit Card",Completed,317,3,18
+220,2026-02-25,"Debit Card",Completed,302,2,10
+221,2026-03-24,"Debit Card",Completed,102,2,12
+222,2026-05-02,Cash,Completed,310,2,14
+223,2026-05-11,"Mobile Wallet",Returned,158,2,13
+224,2026-06-11,"Mobile Wallet",Cancelled,64,2,12
+225,2026-02-01,Installment,Pending,54,1,7
+226,2026-04-16,"Mobile Wallet",Returned,78,1,2
+227,2026-03-06,Installment,Returned,116,3,16
+228,2026-03-04,"Debit Card",Completed,5,3,16
+229,2026-02-27,Installment,Returned,163,2,10
+230,2026-02-20,"Mobile Wallet",Completed,77,1,8
+231,2026-04-26,"Debit Card",Returned,12,1,5
+232,2026-03-03,"Mobile Wallet",Completed,171,1,6
+233,2026-01-13,"Debit Card",Completed,3,3,15
+234,2026-06-28,"Mobile Wallet",Completed,299,1,8
+235,2026-06-06,"Mobile Wallet",Completed,316,3,17
+236,2026-01-12,"Credit Card",Completed,240,2,12
+237,2026-03-11,Cash,Pending,99,1,2
+238,2026-02-02,installment," Completed",207,1,7
+239,2026-05-01,"Mobile Wallet",Cancelled,224,2,13
+240,2026-02-14,Installment,Completed,135,2,13
+241,2026-02-28,Cash,Completed,59,1,7
+242,2026-04-26,"Credit Card",Completed,310,2,11
+243,2026-01-30,"Mobile Wallet",Cancelled,98,2,10
+244,2026-05-31,"Debit Card","   ",128,3,18
+245,2026-01-26,Installment,Completed,326,1,5
+246,2026-06-24,"   ","   ",72,1,7
+247,2026-03-12,"Debit Card",Returned,189,2,13
+248,2026-05-02,"Debit Card",Cancelled,276,1,7
+249,2026-01-20,Installment,Pending,130,2,13
+250,2026-04-02,"Credit Card",Pending,54,2,12
+251,2026-06-26,"Mobile Wallet",Completed,274,1,3
+252,2026-04-23,"Credit Card",Completed,59,3,18
+253,2026-01-08,Installment,Pending,291,3,16
+254,2026-02-09,Installment,Cancelled,331,3,17
+255,2026-04-21,Cash,Completed,263,3,17
+256,2026-02-17,"Credit Card",Completed,29,2,12
+257,2026-06-30,"Debit Card",Completed,110,1,5
+258,2026-05-05,Installment,Pending,313,3,17
+259,2026-03-01,"Debit Card",completed,118,3,17
+260,2026-05-11,"Credit Card",Returned,43,1,7
+261,2026-06-27,"Debit Card","Completed ",244,1,6
+262,2026-06-27,"Mobile Wallet",Cancelled,348,1,3
+263,2026-01-23,Cash,Returned,43,2,13
+264,2026-04-23,"Credit Card",Completed,150,2,12
+265,2026-04-28,Installment,Completed,234,2,9
+266,2026-06-07,Cash,Completed,322,3,16
+267,2026-06-09,Cash,Returned,5,3,16
+268,2026-01-12,Installment,Completed,216,2,10
+269,2026-02-03,Cash,Completed,119,2,10
+270,2026-06-01,Installment,Completed,329,2,13
+271,2026-06-27,installment,Completed,309,1,4
+272,2026-05-11,Installment,Returned,26,2,12
+273,2026-03-18,"Credit Card",Completed,83,2,9
+274,2026-02-14,Cash,Cancelled,264,2,10
+275,2026-04-11,Installment,Returned,81,3,15
+276,2026-02-19,Installment,Completed,130,1,6
+277,2026-04-11,"Credit Card",Returned,334,3,16
+278,2026-01-05,"Credit Card",Pending,138,1,4
+279,2026-03-08,"Debit Card",Completed,42,2,11
+280,2026-01-20,"Mobile Wallet",Returned,182,2,12
+281,2026-04-19,Cash,Completed,102,1,4
+282,2026-03-08,"Debit Card",Completed,43,1,4
+283,2026-06-07,"Mobile Wallet",Completed,110,3,17
+284,2026-01-31,"Mobile Wallet",Completed,103,3,17
+285,2026-03-27,"Mobile Wallet",Cancelled,314,2,13
+286,2026-05-25,"Mobile Wallet",Cancelled,6,1,4
+287,2026-06-16,Cash,Completed,158,2,9
+288,2026-04-06," Installment",Completed,144,3,15
+289,2026-06-27,"Credit Card",Completed,317,2,13
+290,2026-03-23,"Credit Card",Pending,77,2,12
+291,2026-05-23,"Credit Card",Returned,146,2,13
+292,2026-03-26,Installment,Pending,175,1,5
+293,2026-01-05,"Mobile Wallet",Completed,274,3,16
+294,2026-04-23,"Mobile Wallet",Completed,215,1,5
+295,2026-03-29,"Mobile Wallet",Completed,54,2,12
+296,2026-03-06," Credit Card",Cancelled,171,3,15
+297,2026-05-01,Cash,Returned,9,2,14
+298,2026-01-07,"Credit Card",Completed,236,1,2
+299,2026-06-27,"Debit Card",Pending,115,1,6
+300,2026-05-15,Installment,Returned,265,1,6
+301,2026-04-28,"DEBIT CARD",Cancelled,163,1,5
+302,2026-03-16,Installment,Completed,176,2,12
+303,2026-04-26,Cash,Returned,187,2,13
+304,2026-02-21,Cash,Completed,154,3,15
+305,2026-02-23,"Mobile Wallet",Completed,302,1,5
+306,2026-03-18,"Debit Card",Cancelled,67,1,1
+307,2026-03-10,"Mobile Wallet",Completed,129,1,3
+308,2026-01-14,Installment,Cancelled,265,1,5
+309,2026-05-27,Installment,Pending,196,1,5
+310,2026-06-26,"Credit Card",Pending,203,2,12
+311,2026-05-11,Installment,Completed,94,2,9
+312,2026-06-10,NULL,,126,1,6
+313,2026-06-30,"Credit Card",Returned,214,1,2
+314,2026-01-31,Installment,Completed,283,1,4
+315,2026-01-29,"Mobile Wallet",Completed,221,1,7
+316,2026-02-27,Cash,Completed,29,1,3
+317,2026-02-24,"Credit card ",CANCELLED,89,2,9
+318,2026-05-10,Cash,Returned,32,3,16
+319,2026-03-19,Cash,Pending,116,1,4
+320,2026-05-17,"Mobile Wallet",Pending,163,3,16
+321,2026-02-02,cash,Canceled,150,3,16
+322,2026-01-05,"Debit Card",,8,3,16
+323,2026-01-13,Cash,Returned,114,1,5
+324,2026-05-06,"Credit Card",Completed,240,2,12
+325,2026-03-14,"Debit Card",Completed,283,1,5
+326,2026-05-15,"Mobile Wallet",Completed,133,2,13
+327,2026-03-14,Cash,Returned,298,2,12
+328,2026-02-25,"Debit Card","   ",81,1,7
+329,2026-06-14,"Credit Card",Pending,208,1,4
+330,2026-01-26,Installment,Completed,33,2,13
+331,2026-04-01,Installment,Returned,98,3,17
+332,2026-06-05,"Debit Card",Returned,151,1,5
+333,2026-01-01,Installment,Returned,289,1,2
+334,2026-05-01,"Debit Card",Completed,234,2,11
+335,2026-06-10,Installment,COMPLETE,93,1,5
+336,2026-06-09,Cash,Cancelled,193,3,17
+337,2026-05-11,Installment,Completed,305,3,17
+338,2026-06-24,"Mobile Wallet",Completed,342,1,3
+339,2026-04-28,Installment,Returned,185,1,8
+340,2026-02-14,Installment,Cancelled,155,2,13
+341,2026-06-19,Cash123,Completed,185,2,13
+342,2026-02-24,"Debit Card",Returned,54,3,15
+343,2026-01-21,Cash,Cancelled,111,3,16
+344,2026-04-20,"Debit Card",Cancelled,146,1,3
+345,2026-04-26,"Credit card "," Completed",239,3,15
+346,2026-06-03,Cash,"   ",58,2,11
+347,2026-01-01,"Mobile Wallet",Pending,108,1,7
+348,2026-02-20,Cash,Completed,150,1,8
+349,2026-05-07,"Debit Card",Returned,53,2,10
+350,2026-02-25,"Mobile Wallet",Cancelled,139,2,9
+351,2026-03-20,"Mobile Wallet",Returned,334,2,13
+352,2026-05-10,Cash,Completed,304,2,9
+353,2026-03-05,Cash,Completed,78,1,4
+354,2026-06-29,"Mobile Wallet",Returned,316,1,6
+355,2026-01-01,Cash,Pending,54,1,7
+356,2026-04-26,Installment,Cancelled,324,2,13
+357,2026-01-12,Installment,Completed,329,2,13
+358,2026-01-10,Installment,Completed,32,1,5
+359,2026-06-04,Installment,Cancelled,110,3,17
+360,2026-02-25,"Credit Card",Completed,263,1,5
+361,2026-01-27,"Credit Card",Completed,41,1,3
+362,2026-02-11,Installment,"Completed ",90,3,16
+363,2026-05-07,Cash,Completed,135,2,12
+364,2026-06-04,"Credit Card",Completed,167,1,5
+365,2026-05-16,NULL,"   ",328,1,7
+366,2026-03-31,Cash,Cancelled,286,2,13
+367,2026-03-20,Cash,Cancelled,216,2,14
+368,2026-05-27,"Debit Card",Pending,236,1,8
+369,2026-01-13,"Debit Card",Returned,226,3,16
+370,2026-03-12,"Credit Card",Returned,185,1,6
+371,2026-01-13,"Mobile Wallet",Completed,5,1,5
+372,2026-05-22,"Credit Card",Completed,327,1,4
+373,2026-06-04,"Mobile Wallet",Cancelled,315,3,15
+374,2026-02-01,"Mobile Wallet",Returned,283,1,4
+375,2026-06-13,"Mobile Wallet",Completed,310,1,1
+376,2026-04-12,"Debit Card",Cancelled,324,2,13
+377,2026-05-26,Cash,Returned,324,2,12
+378,2026-06-09,Cash,Completed,97,2,10
+379,2026-02-05,Installment,Cancelled,251,1,5
+380,2026-03-31,Cash,Cancelled,244,3,16
+381,2026-03-12,"Credit Card",Completed,224,1,6
+382,2026-04-19,"Debit Card",Pending,224,2,12
+383,2026-06-30,Installment,Cancelled,60,3,15
+384,2026-05-30,"Credit Card",Returned,292,1,8
+385,2026-03-01,,Completed,147,2,12
+386,2026-03-18,"Debit Card",,257,2,12
+387,2026-06-10,"Debit Card",Completed,291,1,6
+388,2026-02-03,"Mobile Wallet",Completed,130,3,15
+389,2026-06-16,"Credit Card",Completed,313,3,18
+390,2026-03-07,Installment,Cancelled,323,2,14
+391,2026-03-01,"Mobile Wallet",Completed,33,3,15
+392,2026-01-09,Cash,Completed,301,3,15
+393,2026-03-17," Credit Card",completed,214,2,13
+394,2026-04-06,Installment,Completed,64,3,18
+395,2026-05-07,"Mobile Wallet",Returned,184,1,1
+396,2026-03-31,"Credit Card",Completed,43,1,6
+397,2026-01-14,"Debit Card",Completed,284,3,18
+398,2026-03-07,"Mobile Wallet",Returned,139,1,7
+399,2026-05-05,"Debit Card",Cancelled,81,2,10
+400,2026-03-01,"Mobile Wallet",Returned,149,3,17
+401,2026-05-15,"Debit Card",Completed,103,2,10
+402,2026-01-24,"Debit Card",Pending,316,2,13
+403,2026-03-12,Cash,Completed,163,1,6
+404,2026-06-17,"Mobile Wallet",Cancelled,114,2,10
+405,2026-03-28,"Mobile Wallet",Cancelled,140,1,3
+406,2026-05-07,Installment,completed,28,3,17
+407,2026-06-09,"Mobile Wallet",Completed,326,1,2
+408,2026-04-12,Installment,Cancelled,326,1,8
+409,2026-04-24,"Debit Card",Pending,14,2,13
+410,2026-01-01,"Mobile Wallet",Cancelled,106,3,17
+411,2026-06-18,Installment," Completed",340,1,4
+412,2026-01-01,"Mobile Wallet",Pending,108,1,7
+413,2026-03-25,"Credit Card",Completed,310,1,8
+414,2026-04-16,NULL,,185,1,4
+415,2026-06-09,"Credit Card",Completed,14,2,10
+416,2026-06-26,"Debit Card",Completed,301,2,13
+417,2026-04-24,Installment,Returned,310,1,3
+418,2026-06-29,"Debit Card",Completed,98,3,17
+419,2026-03-06,"Mobile Wallet",Returned,109,2,14
+420,2026-04-29,"Mobile Wallet",Completed,192,1,8
+421,2026-05-16,"   ",Completed,20,2,10
+422,2026-06-24,"Mobile Wallet",Completed,64,2,12
+423,2026-05-23,"Mobile Wallet",Completed,315,1,2
+424,2026-01-07," Installment"," Completed",346,2,12
+425,2026-03-17,"Credit Card",Completed,42,1,5
+426,2026-06-04,"Debit Card",Completed,78,2,12
+427,2026-03-10,"Debit Card",Pending,263,2,13
+428,2026-06-09,Installment,Completed,210,3,18
+429,2026-05-20,"Mobile Wallet",Completed,207,1,5
+430,2026-04-12,Cash,Completed,174,3,15
+431,2026-03-01,Cash,Completed,239,1,1
+432,2026-01-05,"  cash",RETURNED,324,2,12
+433,2026-03-19,"Mobile Wallet",Returned,8,3,16
+434,2026-01-28,"Debit Card",Pending,167,3,17
+435,2026-04-20,Cash,Cancelled,114,1,6
+436,2026-01-15,Installment,Completed,163,1,6
+437,2026-05-10,"Debit Card",Completed,15,3,15
+438,2026-06-20,Installment,Pending,263,1,7
+439,2026-06-27,"Credit Card",Completed,144,1,5
+440,2026-04-14,Cash,Completed,308,2,14
+441,2026-06-16,"Mobile Wallet",Completed,63,3,18
+442,2026-04-30,"Credit Card",Completed,331,1,6
+443,2026-02-11,"Debit Card",Cancelled,277,3,16
+444,2026-04-02,Cash,Returned,128,1,6
+445,2026-05-05,"Mobile Wallet",Completed,74,3,16
+446,2026-06-30,"Mobile wallet ","Completed ",203,1,5
+447,2026-05-10,Installment,Completed,283,3,17
+448,2026-05-12,Cash,Pending,150,1,5
+449,2026-05-02,"Credit Card",Cancelled,163,3,16
+450,2026-02-05,"Mobile Wallet",Pending,56,1,6
+451,2026-02-21,"Debit Card",Completed,184,2,13
+452,2026-01-03,"Mobile Wallet",Completed,316,3,16
+453,2026-03-20,"Debit Card",Returned,48,2,10
+454,2026-04-26,Installment,Completed,150,3,15
+455,2026-06-10,"   ",Completed,324,2,12
+456,2026-02-18,"Mobile Wallet",Cancelled,148,3,16
+457,2026-01-24,"Debit Card",Completed,283,2,13
+458,2026-06-09,Cash,Completed,268,2,12
+459,2026-06-15,NULL,NULL,165,3,17
+460,2026-02-25,"Mobile Wallet",Completed,164,2,13
+461,2026-04-13,"Mobile Wallet",Pending,161,1,6
+462,2026-02-11,"Credit Card",Completed,117,2,13
+463,2026-03-30,Installment,Completed,259,2,10
+464,2026-04-21,Installment,Completed,39,3,18
+465,2026-01-16,"Mobile Wallet",Completed,184,2,12
+466,2026-04-16,,NULL,240,3,16
+467,2026-04-05,Installment,Completed,220,3,16
+468,2026-04-08,"Mobile Wallet",Returned,334,1,6
+469,2026-03-14,Cash,Completed,46,3,16
+470,2026-04-23,"Credit Card",Returned,7,1,2
+471,2026-04-27,"Credit Card",Cancelled,166,3,15
+472,2026-02-20,Installment,Completed,297,3,15
+473,2026-02-24,"Credit Card",Completed,266,2,9
+474,2026-02-23,"Credit Card",Cancelled,43,2,12
+475,2026-03-24,"Mobile Wallet",Completed,334,2,13
+476,2026-02-25,"Credit Card",Completed,209,3,18
+477,2026-02-07,Cash,Completed,291,3,17
+478,2026-04-08,"Mobile Wallet",Completed,224,3,15
+479,2026-04-16,Installment,Cancelled,257,2,13
+480,2026-06-15,"Mobile Wallet",Completed,105,1,5
+481,2026-05-13,Installment,Cancelled,209,2,12
+482,2026-03-03,"Credit Card",Cancelled,309,1,8
+483,2026-05-20,Installment,Completed,7,3,15
+484,2026-06-29,"Mobile Wallet",Completed,98,1,5
+485,2026-04-16,"Debit Card",Completed,222,2,10
+486,2026-04-19,"Debit Card",Cancelled,8,3,17
+487,2026-02-09,"Credit Card",Pending,117,3,15
+488,2026-01-24,"Debit Card",Pending,316,2,10
+489,2026-03-15,"Mobile Wallet",Completed,251,1,7
+490,2026-02-11,"Mobile Wallet",Completed,251,1,7
+491,2026-03-21,"Debit Card",Returned,236,1,7
+492,2026-01-30,"Credit Card",Pending,336,2,12
+493,2026-04-23,Cash,Cancelled,240,3,15
+494,2026-06-15,"Credit Card","   ",68,3,16
+495,2026-06-12,"Mobile Wallet",Completed,277,3,16
+496,2026-03-13,Cash,Completed,193,2,11
+497,2026-02-11,"Credit Card",Completed,125,2,13
+498,2026-03-30,Cash,Returned,314,1,7
+499,2026-03-19,Installment,Completed,151,2,9
+500,2026-06-09,"Debit Card",Completed,85,2,10
+501,2026-05-04,Installment,Completed,265,1,7
+502,2026-01-19,Installment,Pending,302,3,18
+503,2026-03-05,"Mobile Wallet",Returned,246,2,13
+504,2026-05-31,Cash,Completed,299,1,5
+505,2026-02-28,Cash,Returned,219,1,7
+506,2026-05-13,"Credit Card",Cancelled,177,2,12
+507,2026-04-20,"Debit Card",Completed,78,2,10
+508,2026-06-04,Installment,Completed,247,3,17
+509,2026-03-20,"Debit Card",Completed,36,3,17
+510,2026-06-26,"Credit Card",Completed,48,3,18
+511,2026-06-28,"  cash",Completed,272,1,8
+512,2026-01-02,"Debit Card",Pending,165,1,7
+513,2026-03-09,"Mobile Wallet",Completed,96,2,10
+514,2026-01-05,Installment,Completed,89,3,17
+515,2026-06-15,"Mobile Wallet",Completed,54,2,13
+516,2026-06-09,Installment,Returned,316,2,14
+517,2026-01-31,"Mobile Wallet",Completed,326,3,17
+518,2026-05-04,Installment,Completed,251,3,17
+519,2026-03-20,"Credit Card",Completed,109,2,9
+520,2026-05-26,"Credit Card",Pending,265,2,9
+521,2026-04-06,Installment,Completed,224,2,9
+522,2026-04-02,Installment,Returned,313,1,5
+523,2026-04-22,NULL,NULL,257,1,4
+524,2026-03-20,Installment,Completed,316,2,13
+525,2026-05-01,"Credit Card",Pending,158,1,6
+526,2026-01-26,"Mobile Wallet",Cancelled,220,3,17
+527,2026-03-20,"Mobile Wallet",Returned,283,2,12
+528,2026-05-26,Cash,Pending,108,1,3
+529,2026-03-02,"Credit Card",NULL,253,2,12
+530,2026-03-04,Cash,Returned,347,3,17
+531,2026-06-29,"Credit Card",Completed,186,1,5
+532,2026-06-11,"Mobile Wallet",Completed,150,2,11
+533,2026-04-15,"Mobile Wallet",Pending,267,1,3
+534,2026-02-20,"Debit Card",Pending!!,20,2,9
+535,2026-01-05,Cash,,125,2,13
+536,2026-06-06,"Debit Card",Pending,49,1,6
+537,2026-06-15,"Credit Card",Returned,163,2,13
+538,2026-05-31,Installment," Returned",209,1,7
+539,2026-06-17,"Debit Card",Cancelled,126,1,6
+540,2026-04-05,"Credit Card",Cancelled,248,1,7
+541,2026-02-20,Cash,Completed,257,1,4
+542,2026-05-20,"Debit Card",Completed,73,2,12
+543,2026-02-25,"Mobile Wallet",Completed,249,3,15
+544,2026-03-10,"Credit Card",Completed,150,2,9
+545,2026-04-24,Installment,Completed,29,3,15
+546,2026-05-01,"mobile wallet",Returned,181,2,12
+547,2026-05-05,"Mobile Wallet",Completed,174,1,3
+548,2026-04-23,"Mobile Wallet",Returned,329,2,13
+549,2026-04-03,"Mobile Wallet",Cancelled,177,2,10
+550,2026-02-04,Installment,Returned,336,3,16
+551,2026-01-23,"Mobile Wallet",Completed,244,3,16
+552,2026-06-21,Installment,Completed,60,3,15
+553,2026-01-12,"Mobile Wallet",Completed,46,1,8
+554,2026-02-25,Cash,Pending,201,2,10
+555,2026-05-13,"Debit Card",Completed,135,2,10
+556,2026-01-28,"Credit Card",Completed,8,3,16
+557,2026-04-25,"Debit Card",Completed,148,1,7
+558,2026-04-26,"Mobile Wallet",Completed,285,2,10
+559,2026-04-26,,Completed,122,3,15
+560,2026-02-25,"Mobile Wallet",Completed,108,1,5
+561,2026-05-11,Installment,Completed,165,2,13
+562,2026-02-07,"Mobile Wallet",Returned,176,1,7
+563,2026-06-07,,NULL,161,3,16
+564,2026-05-07,"Mobile Wallet",Completed,234,3,17
+565,2026-02-08,Installment,Completed,142,1,3
+566,2026-01-25,"Debit Card",Cancelled,313,1,8
+567,2026-04-03,Cash,Pending,63,3,15
+568,2026-03-11,Cash,Completed,103,1,7
+569,2026-02-27,Cash,Completed,229,1,6
+570,2026-02-25,Cash,"   ",189,1,8
+571,2026-03-12,Installment,Completed,263,2,12
+572,2026-02-14,"Debit Card",Completed,73,3,18
+573,2026-05-22,Installment,Completed,78,3,16
+574,2026-03-10,"DEBIT CARD",Completed,185,1,2
+575,2026-05-23,Cash,Completed,174,2,12
+576,2026-03-31,Installment,Completed,148,3,16
+577,2026-05-02," CASH",PENDING,33,2,12
+578,2026-01-16,"Debit Card",Returned,54,2,10
+579,2026-06-26,"Mobile Wallet",Cancelled,108,2,9
+580,2026-04-09,"Debit Card",Completed,220,3,15
+581,2026-02-28,"Mobile Wallet",Completed,20,1,1
+582,2026-01-30,"Debit Card",Completed,148,2,11
+583,2026-02-11,Cash,Completed,289,1,4
+584,2026-02-21,Installment,Completed,263,1,3
+585,2026-04-05,"Mobile Wallet",Completed,263,1,5
+586,2026-06-15,Installment,Completed,113,3,15
+587,2026-06-05,"Credit Card",Completed,9,1,2
+588,2026-02-18,Cash,Completed,334,1,3
+589,2026-01-12,"Credit Card",Completed,233,1,7
+590,2026-06-27,Installment,Completed,161,3,17
+591,2026-04-26,Installment,Completed,54,1,7
+592,2026-02-14,"Mobile Wallet",Pending,187,1,7
+593,2026-05-26,"Mobile Wallet",Returned,2,2,12
+594,2026-03-02,"Credit Card",Completed,233,1,6
+595,2026-05-13,"Debit Card",Pending,322,1,2
+596,2026-03-01,"Debit Card",Returned,239,1,3
+597,2026-04-19,Installment,Completed,208,3,17
+598,2026-01-30,,Completed,257,2,9
+599,2026-04-30,Cash,Returned,142,2,11
+600,2026-05-28,"Debit Card",Completed,196,3,15
+601,2026-02-28,"Debit Card",Cancelled,176,1,3
+602,2026-04-20,"Mobile Wallet",Completed,225,3,18
+603,2026-04-01,"Debit Card",Completed,343,2,11
+604,2026-02-16,Cash,Cancelled,215,1,5
+605,2026-01-06,Installment,Completed,323,3,15
+606,2026-05-09,"Credit Card",Complete,5,3,15
+607,2026-06-29,"Mobile Wallet",Returned,246,1,5
+608,2026-03-18,Cash,Pending,31,1,5
+609,2026-06-25,"Mobile Wallet",Cancelled,297,2,9
+610,2026-02-07,"Mobile Wallet",Returned,339,3,15
+611,2026-02-04,Cash,Completed,138,2,12
+612,2026-01-17,"Mobile Wallet",Completed,326,2,12
+613,2026-05-18,"Debit Card",Cancelled,8,1,3
+614,2026-06-29,Cash,Returned,130,2,14
+615,2026-03-21,"Credit Card",Completed,106,2,13
+616,2026-02-25,Cash,Completed,336,3,18
+617,2026-05-30,Installment,Completed,246,1,5
+618,2026-03-29,"   ",NULL,343,3,15
+619,2026-03-05,"Mobile Wallet",Completed,197,2,13
+620,2026-05-19,Installment,Cancelled,234,2,12
+621,2026-06-11,Cash,Pending,203,1,6
+622,2026-06-21,"Debit Card",Pending,26,2,10
+623,2026-06-05,"Debit Card",Completed,313,1,7
+624,2026-01-21,Installment,Pending,8,2,13
+625,2026-05-11,Cash123,Completed,196,1,3
+626,2026-02-24,Cash,Completed,236,3,17
+627,2026-05-29,"Mobile Wallet",Completed,155,2,14
+628,2026-06-02,"Mobile Wallet",Completed,184,3,15
+629,2026-01-01,"Credit Card",Completed,12,1,5
+630,2026-06-11,"Mobile Wallet",Completed,150,2,11
+631,2026-01-08,Cash,Pending,77,2,9
+632,2026-02-20,"Credit Card",Cancelled,347,3,17
+633,2026-04-16,"Credit Card",Completed,28,1,5
+634,2026-02-07,Cash,Completed,108,1,3
+635,2026-02-23,Installment,Returned,283,2,12
+636,2026-01-11,"Debit Card",Completed,116,2,13
+637,2026-06-20,Cash,Completed,234,3,15
+638,2026-02-18,"Credit Card",Completed,114,2,9
+639,2026-06-02,"Mobile Wallet",Completed,184,3,15
+640,2026-03-31,Cash,Completed,46,2,12
+641,2026-06-16,Cash,Returned,315,1,4
+642,2026-06-26,"MOBILE WALLET"," Completed",325,1,2
+643,2026-06-14,Cash,Completed,224,3,16
+644,2026-01-27,"Debit Card",Returned,193,1,6
+645,2026-04-17,"Mobile Wallet",Completed,34,3,16
+646,2026-05-12,Installment,Completed,273,1,7
+647,2026-04-27,"Mobile Wallet",Pending,163,1,5
+648,2026-02-18,Cash,"Completed ",116,1,6
+649,2026-06-28,Cash,Completed,212,2,12
+650,2026-04-04,Installment,Returned,247,2,9
+651,2026-02-08,"Credit Card",Cancelled,316,2,13
+652,2026-02-09,"Mobile Wallet",Cancelled,124,3,16
+653,2026-06-26,"Credit Card",RETURNED,73,2,13
+654,2026-02-08,Installment,Completed,46,1,1
+655,2026-02-27,"Debit Card",Completed,232,1,5
+656,2026-01-05,"Credit Card",Completed,189,2,12
+657,2026-03-20,"Debit Card",Completed,216,2,12
+658,2026-06-08,"Credit Card",Completed,184,2,14
+659,2026-05-15,Installment,Returned,289,2,11
+660,2026-06-20,"Credit Card",Cancelled,124,1,2
+661,2026-03-01,"Debit Card",Completed,272,1,8
+662,2026-06-28,"Mobile Wallet",PENDING,246,1,6
+663,2026-02-24,Installment,Completed,302,2,13
+664,2026-04-28,"Credit Card",Completed,148,1,6
+665,2026-06-05,Cash,Completed,276,1,5
+666,2026-06-23,"Credit Card",Cancelled,4,3,15
+667,2026-05-02,"Credit Card",Completed,221,2,11
+668,2026-06-13,"Debit Card",Returned,334,3,17
+669,2026-05-05,"Credit Card",Returned,78,3,17
+670,2026-05-07,Cash,Completed,128,1,8
+671,2026-03-04,"Debit Card",Completed,42,2,9
+672,2026-02-07,"Debit Card",Completed,209,1,3
+673,2026-02-12,"Debit Card",Completed,77,1,8
+674,2026-06-25,"Credit Card",Completed,97,1,3
+675,2026-06-27,"Credit Card",Completed,90,2,13
+676,2026-01-28,Cash,Completed,94,2,10
+677,2026-05-28,Cash,Completed,54,3,18
+678,2026-03-15,"Credit Card","   ",108,1,8
+679,2026-05-21,Installment,NULL,234,2,13
+680,2026-03-01,Cash,Completed,312,1,8
+681,2026-02-01,"Credit Card",Completed,323,2,10
+682,2026-05-02,"Debit Card",Pending,240,3,16
+683,2026-01-05,Cash,Returned,225,3,16
+684,2026-05-26,INSTALLMENT,Completed,73,2,13
+685,2026-04-12," CASH",Cancelled,114,2,13
+686,2026-02-05,"Credit Card",Cancelled,314,3,16
+687,2026-06-05,Cash,Returned,81,3,18
+688,2026-02-05,Cash,"   ",234,3,16
+689,2026-06-28,Installment,Completed,265,1,5
+690,2026-03-03,"Debit Card",Cancelled,163,1,5
+691,2026-03-12,"Mobile Wallet",Completed,244,3,16
+692,2026-03-10,Installment,Cancelled,144,3,15
+693,2026-04-23,"CREDIT CARD",completed,81,2,9
+694,2026-01-21,"Debit Card",Completed,146,1,7
+695,2026-01-17,"Debit Card",Completed,201,1,7
+696,2026-04-30,"Cash ",completed,52,3,17
+697,2026-06-26,Installment,Completed,126,1,5
+698,2026-06-26,"Mobile Wallet",Completed,224,2,12
+699,2026-05-21,"Mobile Wallet",Completed,147,1,5
+700,2026-01-13,"Mobile Wallet",Completed,8,2,11
+701,2026-02-15,Cash,Completed,29,1,3
+702,2026-02-15," CASH"," Returned",180,2,13
+703,2026-05-02,Cash,Completed,85,2,11
+704,2026-06-29,"Debit Card",Completed,195,1,4
+705,2026-04-05,"Debit Card",Completed,90,3,17
+706,2026-02-06,Installment,Completed,347,3,17
+707,2026-04-27,"Debit Card",Returned,106,3,15
+708,2026-04-22,Installment,Returned,329,3,18
+709,2026-03-07,Installment,Returned,165,2,13
+710,2026-05-05,"Credit Card",Completed,306,1,8
+711,2026-02-07,"Credit Card",Pending,79,3,17
+712,2026-04-05,"Mobile Wallet",Cancelled,191,2,12
+713,2026-03-20,Cash,Completed,118,3,17
+714,2026-05-10,"Mobile Wallet",Completed,150,2,13
+715,2026-01-25,Cash,Completed,301,2,12
+716,2026-05-01,"Debit Card",Cancelled,309,2,10
+717,2026-06-05,"Debit Card",Completed,285,1,1
+718,2026-06-10,"Mobile Wallet",Returned,150,1,3
+719,2026-04-27,"Debit Card",Pending,187,1,7
+720,2026-01-16,NULL,NULL,273,1,1
+721,2026-02-19,Installment,Cancelled,347,3,18
+722,2026-03-07,Installment,Returned,320,1,7
+723,2026-04-04,"Mobile Wallet",Completed,138,1,5
+724,2026-05-27,Cash,Completed,73,1,5
+725,2026-05-08,"DEBIT CARD",Complete,159,1,5
+726,2026-03-20,"Credit card ",Completed,236,1,3
+727,2026-01-14,Cash,Completed,216,3,18
+728,2026-02-28,"Mobile Wallet",Completed,318,2,10
+729,2026-01-25,Installment,,103,3,15
+730,2026-01-28,Cash,Completed,130,1,5
+731,2026-03-07,"Mobile Wallet",Completed,318,2,11
+732,2026-02-24,"Mobile Wallet",Completed,49,2,14
+733,2026-03-13,"Credit Card",,142,3,17
+734,2026-05-10,"Mobile Wallet",Completed,108,1,7
+735,2026-01-17,Installment,Completed,326,2,12
+736,2026-06-23,"Debit Card",Completed,243,3,16
+737,2026-04-06,Cash,Returned,54,2,9
+738,2026-05-05,Installment,Completed,282,1,5
+739,2026-03-15,"Mobile Wallet",NULL,311,1,8
+740,2026-03-06,"Debit Card",Cancelled,257,2,12
+741,2026-04-24,"Debit Card",Completed,161,3,18
+742,2026-01-08,"   ",Completed,283,1,6
+743,2026-01-30,"Mobile Wallet",Completed,315,2,11
+744,2026-06-26,Installment,Completed,236,1,5
+745,2026-04-26,"Credit Card",Returned,329,1,5
+746,2026-03-27,Installment," Completed",312,2,10
+747,2026-06-27,"Credit Card",COMPLETE,26,3,17
+748,2026-01-29,,NULL,265,1,5
+749,2026-04-05,"Debit Card",Completed,38,1,2
+750,2026-04-03,Installment,Completed,92,2,12
+751,2026-02-25,"Mobile Wallet",Completed,28,2,12
+752,2026-01-06,"Credit Card",Completed,142,1,4
+753,2026-06-05,"Credit Card",Completed,93,2,9
+754,2026-02-25,"Mobile Wallet",Completed,164,2,13
+755,2026-01-08,"Mobile Wallet",Completed,233,1,2
+756,2026-03-05,"Credit Card",Completed,100,1,5
+757,2026-04-20,"Credit Card",Completed,216,1,7
+758,2026-04-20,"Credit Card",Completed,257,1,2
+759,2026-01-01,"Debit Card",Completed,5,1,6
+760,2026-04-14,Cash,Cancelled,67,1,5
+761,2026-04-22,Cash,Returned,155,2,12
+762,2026-02-11,Cash,Completed,183,2,13
+763,2026-01-24,Installment,Completed,158,3,17
+764,2026-06-17,,Completed,139,1,2
+765,2026-06-23,Cash,Completed,89,1,4
+766,2026-06-09,"Debit Card",Returned,347,1,5
+767,2026-06-15,"Credit Card",Completed,236,1,3
+768,2026-01-08,"Credit Card",Cancelled,291,3,17
+769,2026-06-10,Cash,Returned,148,1,3
+770,2026-03-05,"Credit Card",Pending,196,3,16
+771,2026-05-05,"Mobile Wallet",Completed,189,2,10
+772,2026-05-01,"Debit Card",Completed,39,2,11
+773,2026-06-20,Cash,Completed,234,3,15
+774,2026-05-06,"Debit Card",Cancelled,83,3,15
+775,2026-05-29,"Credit Card",Completed,14,2,13
+776,2026-04-12,Cash,Cancelled,215,3,16
+777,2026-01-18,Installment,Completed,347,3,16
+778,2026-05-16,"Debit Card","   ",35,3,15
+779,2026-05-15,"Credit Card",Completed,239,1,6
+780,2026-05-09,"Debit Card",Returned,264,3,15
+781,2026-03-23,Cash,Pending,26,3,17
+782,2026-02-02,Installment,Cancelled,159,2,14
+783,2026-03-20,Cash,Completed,176,2,13
+784,2026-05-13,Cash,Completed,264,1,1
+785,2026-05-01,"Credit Card",Pending,150,3,15
+786,2026-06-11,"Mobile Wallet",Completed,54,2,9
+787,2026-05-20,cASH,COMPLETE,139,1,3
+788,2026-02-10,"Mobile Wallet",Cancelled,214,1,8
+789,2026-04-05,"Debit Card",Cancelled,51,3,18
+790,2026-03-07,"Mobile Wallet",Cancelled,11,2,13
+791,2026-05-09,"Credit Card",Returned,263,2,13
+792,2026-01-18,"Credit Card",Pending,118,1,7
+793,2026-05-10,"Credit Card",Returned,321,2,9
+794,2026-06-30,Installment,Returned,253,1,6
+795,2026-02-12,"Mobile Wallet",Cancelled,110,1,5
+796,2026-02-16,Cash,Completed,310,1,1
+797,2026-03-31,"Debit Card",Completed,297,3,16
+798,2026-05-27,"Credit Card",Completed,212,2,9
+799,2026-02-19,"Mobile Wallet",Completed,151,1,5
+800,2026-01-26,"Mobile Wallet",,77,3,15
+801,2026-02-25,"Mobile Wallet",Completed,165,2,9
+802,2026-03-02,NULL,Completed,78,2,14
+803,2026-03-18,"Mobile Wallet",Completed,126,1,8
+804,2026-01-06,Installment,cancelled,150,1,5
+805,2026-01-18,"Mobile Wallet",Completed,59,3,16
+806,2026-06-08,Cash,Returned,151,2,13
+807,2026-04-06,Installment,Completed,106,2,14
+808,2026-05-29,"Mobile Wallet",Completed,70,2,12
+809,2026-04-05,Installment,Pending,102,2,11
+810,2026-03-29,"Mobile Wallet",Completed,116,3,16
+811,2026-04-05,Cash,Returned,73,1,3
+812,2026-02-20,"Mobile Wallet",Completed,253,3,16
+813,2026-04-26,"Debit Card",Completed,326,3,18
+814,2026-05-06,Installment,Completed,228,2,12
+815,2026-01-05,Cash,Completed,11,2,12
+816,2026-05-26,"Mobile Wallet",Completed,63,2,14
+817,2026-06-28,"Debit Card",Pending,265,2,13
+818,2026-02-11,"Debit Card",Cancelled,224,3,17
+819,2026-02-25,"Mobile Wallet",Cancelled,139,2,9
+820,2026-01-01,"Debit Card",Cancelled,166,1,3
+821,2026-02-25,"Credit Card",Completed,8,1,6
+822,2026-01-26,"Credit Card",Completed,326,2,12
+823,2026-03-31,"Credit Card",Completed,206,1,3
+824,2026-06-24,"Mobile Wallet",Completed,35,1,2
+825,2026-04-13,Cash,Pending,339,2,13
+826,2026-02-23,"Credit Card",Returned,310,1,8
+827,2026-01-05,Installment,Pending,240,2,12
+828,2026-06-29,"Debit Card",Cancelled,141,1,6
+829,2026-06-07,Cash,Completed,312,3,16
+830,2026-06-15,"Debit Card",Returned,272,1,6
+831,2026-03-16,"Mobile Wallet",Cancelled,263,2,10
+832,2026-03-17,"   ",Completed,346,2,11
+833,2026-03-03,"Mobile Wallet",Pending,268,1,2
+834,2026-02-18,"Mobile Wallet",Completed,103,1,5
+835,2026-05-03,"   ",Completed,71,2,10
+836,2026-06-09,Cash,Completed,178,1,5
+837,2026-05-16,"Credit Card",Completed,81,2,12
+838,2026-06-25,"Credit Card",Completed,288,3,17
+839,2026-06-11,"Mobile Wallet",Cancelled,310,1,8
+840,2026-04-04,"   ",NULL,39,2,14
+841,2026-04-05,"Debit Card",Completed,135,2,11
+842,2026-02-14,"Mobile Wallet",Completed,209,1,4
+843,2026-04-16,Cash,Completed,35,1,6
+844,2026-06-09,Installment,Returned,5,1,7
+845,2026-05-01,Installment,Returned,35,1,8
+846,2026-03-13,"Debit Card",Completed,216,2,9
+847,2026-06-11,"Mobile Wallet",Completed,118,1,5
+848,2026-02-05,Installment,Cancelled,251,1,5
+849,2026-03-10,"Mobile Wallet",Completed,129,1,3
+850,2026-06-25,"Debit Card",Returned,347,1,6
+851,2026-02-27,"Mobile Wallet",Cancelled,162,2,9
+852,2026-05-15,Cash,Pending,324,1,7
+853,2026-06-13,"Credit Card",Completed,188,1,2
+854,2026-03-01,"Mobile Wallet",Pending,240,2,12
+855,2026-03-15,"Debit Card",Completed,73,2,12
+856,2026-04-13,"Debit Card",Cancelled,310,3,17
+857,2026-04-02,"Mobile Wallet",Cancelled,218,2,12
+858,2026-01-30,"Mobile Wallet",Completed,31,2,13
+859,2026-05-28,Cash,Cancelled,307,2,14
+860,2026-02-28,"Credit Card",Returned,216,2,12
+861,2026-03-27,Installment,Completed,201,1,5
+862,2026-03-07,"Debit Card",Returned,276,2,10
+863,2026-04-05,"Mobile Wallet",Completed,191,3,17
+864,2026-06-24,"Mobile Wallet",Cancelled,339,1,7
+865,2026-05-09,"Credit Card",Returned,89,1,5
+866,2026-02-01,Cash,Completed,245,3,18
+867,2026-06-15,"Debit Card",Completed,9,1,8
+868,2026-03-12,"Debit Card",Cancelled,84,2,13
+869,2026-04-23,Cash,Cancelled,314,1,5
+870,2026-04-27,"Mobile Wallet",Completed,185,3,15
+871,2026-03-18,"credit card"," Pending",115,2,13
+872,2026-04-24,"Debit Card",Completed,214,1,7
+873,2026-03-02,"mobile wallet",Cancelled,259,2,14
+874,2026-04-06,"Mobile Wallet",Returned,196,2,13
+875,2026-06-27,Installment,Completed,161,3,17
+876,2026-06-04,Installment,Completed,119,3,15
+877,2026-01-20,"Debit Card",Completed,44,1,7
+878,2026-05-03,Installment,Cancelled,331,2,13
+879,2026-05-22,Installment,Completed,23,1,1
+880,2026-06-23,"Debit Card",Returned,347,3,18
+881,2026-05-04,"Credit Card",Pending,238,3,16
+882,2026-05-23,Cash,Completed,212,3,17
+883,2026-06-13,"Debit Card",Completed,305,2,9
+884,2026-04-18,"Credit Card",Completed,106,2,13
+885,2026-06-26,"Debit Card",Completed,58,1,6
+886,2026-02-16,Cash,Pending,301,2,13
+887,2026-04-22,Cash,Completed,174,3,16
+888,2026-05-28,"Mobile Wallet",Cancelled,246,3,18
+889,2026-02-05,"Mobile Wallet",Completed,171,2,13
+890,2026-06-05,"Credit Card",Returned,117,3,18
+891,2026-03-05,Cash,Returned,283,2,13
+892,2026-04-02,"Mobile Wallet",Completed,302,1,7
+893,2026-02-12,"Credit Card",Completed,234,1,8
+894,2026-05-01,"Mobile Wallet",Completed,116,2,12
+895,2026-01-19,Installment,Cancelled,142,1,7
+896,2026-01-19,"Credit Card",Completed###,244,2,11
+897,2026-03-31,"Credit Card",Completed,142,1,7
+898,2026-02-10,Cash,Returned,207,2,13
+899,2026-01-13,"Credit Card",Pending,106,3,18
+900,2026-06-25,"Debit Card",Completed,246,1,2
+901,2026-05-13,,NULL,280,1,3
+902,2026-05-27,Installment,Completed,130,1,6
+903,2026-06-06,"Credit Card",Completed,347,1,6
+904,2026-01-06,"Credit Card",Completed,151,1,8
+905,2026-04-01,"Credit Card",Completed,339,1,2
+906,2026-02-19,"Debit Card",Pending,181,1,2
+907,2026-04-16,"Mobile Wallet",Completed,54,1,5
+908,2026-06-27,"Mobile Wallet",Completed,89,1,1
+909,2026-01-09,"Mobile Wallet",Returned,331,1,6
+910,2026-04-28,Cash,Returned,274,2,13
+911,2026-05-09,"Mobile Wallet",Completed,285,2,12
+912,2026-03-03,Cash,Completed,158,1,6
+913,2026-05-12,Installment,Completed,46,3,15
+914,2026-03-10,Installment,Completed,200,3,15
+915,2026-05-26,Installment,Completed,263,2,11
+916,2026-05-03,"Mobile Wallet",Completed,350,1,5
+917,2026-04-05,Cash,Cancelled,35,1,5
+918,2026-03-14,Cash,Returned,298,2,12
+919,2026-01-12,Installment,"   ",7,1,7
+920,2026-04-20,"Mobile Wallet",Completed,283,1,5
+921,2026-05-10,Cash,Returned,208,2,12
+922,2026-06-09,Cash,Completed,339,3,17
+923,2026-01-13,,,244,1,7
+924,2026-05-13,Cash,Completed,109,1,5
+925,2026-05-22,Cash,Pending,233,3,17
+926,2026-03-24,Cash,Completed,263,3,15
+927,2026-04-22,Installment,Completed,128,1,5
+928,2026-02-08,Cash,Completed,329,1,5
+929,2026-01-02,Installment,Returned,329,1,4
+930,2026-01-13,"Credit Card",Pending,187,1,4
+931,2026-04-30,"Debit Card",Pending,108,1,5
+932,2026-04-12,Cash,Pending,323,2,13
+933,2026-06-26,"Credit Card",Completed,89,2,13
+934,2026-06-11,"   ","   ",294,2,11
+935,2026-01-08,"Debit Card",Completed,210,3,17
+936,2026-02-18,Installment,Completed,150,3,17
+937,2026-04-12,,NULL,232,1,3
+938,2026-04-27,"Mobile Wallet",Cancelled,328,1,5
+939,2026-06-23,"Debit Card",Cancelled,78,3,15
+940,2026-06-27,"Debit Card",Pending,73,1,6
+941,2026-03-23,Installment,Completed,286,1,6
+942,2026-04-22,NULL,Completed,58,1,5
+943,2026-03-06,Cash,Completed,216,2,9
+944,2026-05-13,Installment,Completed,42,2,10
+945,2026-04-20,"Debit Card","Completed ",228,2,9
+946,2026-04-06,"Credit Card",Completed,54,2,13
+947,2026-05-31,"Credit Card",Completed,139,1,1
+948,2026-06-25,Cash,Completed,276,1,8
+949,2026-02-05,"Debit Card***",Returned,310,3,16
+950,2026-06-14,"Debit Card",Cancelled,36,1,7
+951,2026-01-20,"Debit Card",Pending,102,3,17
+952,2026-02-07,"Debit Card",Returned,14,3,15
+953,2026-01-05,Installment,,118,2,12
+954,2026-05-19,"Mobile Wallet",Pending,302,1,6
+955,2026-02-03,Installment,Cancelled,5,3,15
+956,2026-01-25,"Mobile Wallet",Pending,51,3,15
+957,2026-05-13,"Debit Card",Cancelled,17,3,17
+958,2026-01-06,"Mobile Wallet",Cancelled,236,2,13
+959,2026-06-18,"Debit Card",Returned,158,2,12
+960,2026-06-05,"Mobile Wallet",Pending,104,2,12
+961,2026-03-31,"Credit Card",Completed,312,1,8
+962,2026-01-18,"Debit Card",Completed,32,1,6
+963,2026-01-21,Cash,Completed,297,1,7
+964,2026-02-26,"Credit Card",Pending,329,1,7
+965,2026-06-25,Installment,Completed,263,3,15
+966,2026-03-09,"Mobile Wallet",Cancelled,5,1,7
+967,2026-02-26,"Mobile Wallet",Completed,253,1,5
+968,2026-02-22,Installment,Cancelled,347,1,5
+969,2026-04-16,"Credit Card",Returned,7,3,15
+970,2026-01-30,Installment,Cancelled,247,2,13
+971,2026-04-05,Installment,Cancelled,347,1,4
+972,2026-05-05,"Credit Card",Cancelled,218,2,12
+973,2026-06-13,"Credit Card",Completed,265,3,18
+974,2026-04-25,Installment,Completed,293,1,2
+975,2026-03-31,"Mobile Wallet",Completed,150,1,8
+976,2026-06-11,"Mobile Wallet",Pending,272,2,14
+977,2026-03-06,Cash,"   ",265,1,5
+978,2026-05-11,"Credit Card",Completed,103,3,16
+979,2026-06-28,"Credit Card",COMPLETE,207,3,17
+980,2026-04-23,Installment,Returned,334,2,14
+981,2026-06-22,"Credit Card!!",Returned,330,1,7
+982,2026-06-15,Installment,Completed###,128,1,5
+983,2026-02-26,Cash,Completed,125,3,16
+984,2026-02-14,"Debit Card",Completed,73,3,18
+985,2026-04-16,Cash,Pending,171,2,9
+986,2026-06-07,Cash,Completed,59,1,5
+987,2026-03-03,"Debit Card",Completed,265,2,9
+988,2026-05-16,"Debit Card",Completed,138,1,5
+989,2026-06-30,"Debit Card",Completed,191,3,18
+990,2026-01-03,"Mobile Wallet",Completed,233,2,14
+991,2026-06-29,Cash,Completed,264,1,2
+992,2026-02-04,Cash,NULL,246,1,7
+993,2026-05-01,"Mobile Wallet",Cancelled,51,3,16
+994,2026-06-13,"Credit Card","Completed ",11,1,4
+995,2026-06-15,Cash,Completed,347,3,18
+996,2026-04-20,"Credit Card",Completed,171,3,16
+997,2026-05-07,"Mobile Wallet",Pending,271,3,17
+998,2026-06-29,"Mobile Wallet",Completed,263,1,7
+999,2026-03-17,cASH,Completed,41,1,2
+1000,2026-03-03,"Credit Card",Completed,174,1,3
+1001,2026-04-03,Installment,Cancelled,118,2,13
+1002,2026-02-19,"Debit Card",Completed,167,2,9
+1003,2026-05-12,Installment,Completed,150,1,2
+1004,2026-02-24,"Debit Card",Returned,73,1,7
+1005,2026-03-16,"Credit Card",Cancelled,94,1,2
+1006,2026-01-30,Cash,Cancelled,77,1,7
+1007,2026-04-02,,Returned,219,2,13
+1008,2026-01-12,"Credit Card",Completed,225,2,12
+1009,2026-06-21,"Credit Card",Completed,12,2,10
+1010,2026-04-05,Cash,"   ",220,2,12
+1011,2026-06-28,"Debit Card",Cancelled,147,2,9
+1012,2026-05-27,"Debit Card",Completed,87,2,13
+1013,2026-06-28,Cash,Completed,182,1,5
+1014,2026-05-13,"Debit Card",Cancelled,130,2,9
+1015,2026-05-18,Cash,completed,113,3,16
+1016,2026-02-20,"Debit Card",Completed,17,1,1
+1017,2026-03-20,Installment,Completed,100,2,11
+1018,2026-06-29,"Mobile Wallet",Completed,93,3,16
+1019,2026-02-26,Cash,Cancelled,42,1,4
+1020,2026-03-01,"Debit Card",Completed,308,2,12
+1021,2026-06-27,Installment,Pending,133,2,13
+1022,2026-05-20,"Mobile Wallet",Completed,207,1,5
+1023,2026-04-05,Cash,Completed,32,2,12
+1024,2026-03-05,Cash,Pending,215,1,6
+1025,2026-06-08,"Credit Card",Completed,313,2,14
+1026,2026-04-12,Cash,Pending,323,2,13
+1027,2026-05-19,"Mobile Wallet",Returned,108,2,13
+1028,2026-06-07,Cash,Completed,252,1,3
+1029,2026-01-13,"Debit Card",Returned,191,1,3
+1030,2026-03-27,"Debit Card",Completed,316,1,7
+1031,2026-02-20,NULL,Completed,251,2,12
+1032,2026-04-28,Installment,Returned,182,2,12
+1033,2026-05-04,"Credit Card",Completed,214,1,1
+1034,2026-01-06,"Credit Card",Cancelled,197,2,9
+1035,2026-03-05,Installment,Returned,172,1,7
+1036,2026-05-19,"Mobile Wallet",Returned,29,2,12
+1037,2026-06-30,"Mobile Wallet",Completed,203,1,5
+1038,2026-04-20,Cash,Completed,78,3,17
+1039,2026-06-24,Cash,Returned,214,2,12
+1040,2026-06-07,Installment,Completed,178,1,5
+1041,2026-02-17,"Debit Card",Pending,83,1,4
+1042,2026-02-09,,Completed,84,2,10
+1043,2026-02-25,"Debit Card",Completed,229,2,11
+1044,2026-04-28,"Credit Card",Returned,274,1,3
+1045,2026-06-13,"Debit Card",Cancelled,44,1,3
+1046,2026-01-24,Cash,Cancelled,133,2,12
+1047,2026-04-24,"Credit Card",Completed,93,1,7
+1048,2026-02-04,Cash,Cancelled,103,3,18
+1049,2026-06-09,"Credit Card",Cancelled,290,1,7
+1050,2026-02-25,Cash,Pending,67,1,8
+1051,2026-06-18,Installment,Completed,310,3,17
+1052,2026-06-30,"Debit Card",Returned,244,1,7
+1053,2026-06-23,"Credit Card",Returned,219,1,6
+1054,2026-02-25,"credit card",Pending,111,2,12
+1055,2026-06-05,"Mobile Wallet",Completed,308,1,6
+1056,2026-06-16,"Mobile Wallet",Completed,256,3,16
+1057,2026-06-28,"Mobile Wallet",Completed,171,1,3
+1058,2026-03-21,"Credit Card",Completed,284,2,12
+1059,2026-05-09,"Credit Card",Cancelled,326,2,12
+1060,2026-02-14,"Credit Card",Returned,108,2,11
+1061,2026-04-05,Cash,Completed,219,3,16
+1062,2026-02-28,"Mobile Wallet",Completed,89,1,2
+1063,2026-06-24,Cash,Pending,54,2,13
+1064,2026-04-21,Cash,Returned,138,1,2
+1065,2026-05-18,Cash,Completed,292,2,9
+1066,2026-03-20,"Credit Card","   ",32,3,15
+1067,2026-02-11,cASH,RETURNED,274,2,12
+1068,2026-03-14,"Debit Card",Returned,257,1,2
+1069,2026-01-20,"Mobile Wallet",Returned,78,1,6
+1070,2026-04-30,"Credit Card",,158,2,12
+1071,2026-03-07,Cash,Pending,58,2,11
+1072,2026-04-13,Cash,NULL,224,2,13
+1073,2026-06-05,"Debit Card",completed,39,1,7
+1074,2026-03-28,"Credit Card",Completed,292,2,12
+1075,2026-02-15,"Mobile Wallet",Completed,8,2,14
+1076,2026-06-15,"Credit Card",Cancelled,234,1,3
+1077,2026-01-16,Cash,Completed,312,2,12
+1078,2026-02-25,Cash,Completed,42,1,3
+1079,2026-04-20,Cash,Completed,220,1,4
+1080,2026-04-17,Cash," Pending",322,1,8
+1081,2026-05-07,"Debit Card",Pending,150,3,15
+1082,2026-06-04,"Debit Card",Pending,150,1,3
+1083,2026-03-10,Cash,Completed,122,2,13
+1084,2026-06-15,"Debit Card",Returned,235,1,8
+1085,2026-02-04,Cash,Returned,276,2,14
+1086,2026-05-29,"Credit Card",Returned##,58,3,18
+1087,2026-03-07,"Mobile Wallet",Returned,158,1,3
+1088,2026-01-12,"Debit Card",Completed,207,3,15
+1089,2026-03-25,"Credit Card","   ",347,1,2
+1090,2026-05-21,"Mobile Wallet",Completed,114,3,16
+1091,2026-05-05,,NULL,147,3,17
+1092,2026-03-26,"Credit Card",Completed,234,1,7
+1093,2026-02-15,Installment,Completed,175,3,16
+1094,2026-01-05,NULL,NULL,287,3,16
+1095,2026-05-05,Installment,Returned,149,1,6
+1096,2026-03-27,Cash,Completed,260,1,6
+1097,2026-03-05,Cash,Completed,78,1,4
+1098,2026-03-03,Cash,Completed,334,3,17
+1099,2026-06-03,"Credit Card",Completed,130,1,8
+1100,2026-01-27,Installment,Completed,291,2,12
+1101,2026-05-07,cash,Cancelled,289,3,15
+1102,2026-04-02,"Credit Card",Completed,334,1,2
+1103,2026-01-21,"Mobile Wallet",Completed,244,1,7
+1104,2026-02-24,Installment,Completed,39,2,9
+1105,2026-01-30,"Credit Card"," Completed",210,1,5
+1106,2026-04-23,"Credit Card",Completed,54,2,10
+1107,2026-01-12,"Mobile Wallet",,290,2,9
+1108,2026-05-30,"Credit Card",Cancelled,165,1,7
+1109,2026-05-02,"Mobile Wallet",Completed,329,1,5
+1110,2026-06-09,Cash,Completed,158,1,7
+1111,2026-04-17,Cash,Pending,22,2,10
+1112,2026-05-14,Cash,Completed,175,3,17
+1113,2026-04-30,"Credit Card",Completed,331,1,6
+1114,2026-03-13,Installment,Pending,93,1,6
+1115,2026-06-09,"Credit Card",Completed,85,3,16
+1116,2026-01-05,"Credit Card",Cancelled,182,2,14
+1117,2026-02-25,"Credit Card",Completed,220,1,3
+1118,2026-03-20,"Debit Card",Completed,216,2,12
+1119,2026-03-19,"Mobile Wallet",Completed,284,1,7
+1120,2026-01-02,"Mobile Wallet",Completed,229,1,4
+1121,2026-05-19,"Mobile Wallet",Completed,135,1,2
+1122,2026-02-17,"Debit Card",Pending,39,2,11
+1123,2026-04-03,"Credit Card",NULL,117,3,17
+1124,2026-04-05,"Credit Card",Pending,39,3,15
+1125,2026-02-08,"Credit Card",Pending,317,1,1
+1126,2026-03-03,"Credit Card",Completed,324,2,10
+1127,2026-01-07,"Cash ",Pending,200,3,15
+1128,2026-06-28,Cash,Completed,171,1,8
+1129,2026-01-19,"Debit Card",Returned,108,2,9
+1130,2026-02-25,"Credit card ",Completed,142,1,3
+1131,2026-01-06,"Credit Card",Cancelled,251,1,7
+1132,2026-04-20,Installment,Completed,114,2,13
+1133,2026-03-04,Cash,Pending,268,2,12
+1134,2026-06-28,Cash,Completed,169,2,13
+1135,2026-04-04,Cash,Cancelled,239,3,15
+1136,2026-05-26,"Credit Card",Returned,251,2,9
+1137,2026-05-27,"Credit Card",Pending,54,3,17
+1138,2026-02-11,Installment,Returned,253,3,16
+1139,2026-04-07,"Debit Card",Completed,272,3,16
+1140,2026-06-29,"mobile wallet",Completed,309,2,12
+1141,2026-03-03,"Mobile Wallet",Completed,268,3,18
+1142,2026-01-26,Cash,Completed,219,1,3
+1143,2026-03-04,Cash,Returned,347,3,17
+1144,2026-05-12,"Debit Card",Pending,265,2,9
+1145,2026-04-02,Cash,Completed,275,3,18
+1146,2026-06-18,"Debit Card",Completed,110,1,2
+1147,2026-04-06,"Debit Card",Completed,203,2,9
+1148,2026-04-03,"Mobile Wallet",Completed,246,1,2
+1149,2026-06-15,"Mobile Wallet",Cancelled,346,2,14
+1150,2026-03-20,Installment,Completed,326,2,14
+1151,2026-01-06,"Credit Card",Cancelled,251,1,7
+1152,2026-01-30,"Credit Card",Completed,321,1,7
+1153,2026-03-31,"Debit Card",Completed,297,3,16
+1154,2026-03-15,"Mobile Wallet",Completed,148,3,15
+1155,2026-05-04,Cash,Pending,347,2,13
+1156,2026-05-07,"Credit Card",Cancelled,20,3,18
+1157,2026-02-27,Cash,Completed,5,2,13
+1158,2026-02-21,"Debit Card",Completed,184,2,13
+1159,2026-05-09,Cash,Completed,163,1,5
+1160,2026-05-19,"Mobile Wallet",Completed,231,1,5
+1161,2026-06-27,"Mobile Wallet",Returned,258,3,15
+1162,2026-02-11,"Credit Card",Completed,117,2,13
+1163,2026-03-05,"Credit Card",Cancelled,216,2,12
+1164,2026-05-03,"Mobile Wallet",Completed,42,1,7
+1165,2026-04-28,"Credit Card",Completed,148,1,6
+1166,2026-01-02,Installment,Returned,200,2,10
+1167,2026-03-18,"Debit Card",Returned,326,1,4
+1168,2026-04-11,Cash,Completed,165,2,12
+1169,2026-05-17,"Mobile Wallet",Completed,334,2,13
+1170,2026-01-02,"Credit Card",Completed,68,1,3
+1171,2026-04-13,"Mobile Wallet",NULL,31,3,16
+1172,2026-06-05,"Debit Card",Completed,83,2,12
+1173,2026-06-09,"Mobile Wallet",Completed,35,2,13
+1174,2026-01-02,"Credit card ","Completed ",103,1,8
+1175,2026-06-19,Installment,Cancelled,171,1,8
+1176,2026-06-02,"Mobile Wallet",Completed,339,3,17
+1177,2026-04-06,Cash,Pending,200,1,8
+1178,2026-04-26,Cash,Cancelled,210,1,7
+1179,2026-02-20,"Debit Card",Cancelled,220,2,13
+1180,2026-06-15,"Debit Card",Completed,329,1,8
+1181,2026-01-01,"Credit Card",Completed,163,1,3
+1182,2026-01-03,"Mobile Wallet",Completed,43,2,13
+1183,2026-04-16,"Mobile Wallet",Returned,3,1,5
+1184,2026-02-25,Installment,Completed,225,1,7
+1185,2026-03-31,"Credit Card",Completed,259,1,1
+1186,2026-05-12,Installment,Completed,268,1,6
+1187,2026-05-01,"Credit Card",Cancelled,78,2,10
+1188,2026-04-16,"Debit Card",Completed,7,1,6
+1189,2026-05-21,Cash,Cancelled,109,2,11
+1190,2026-02-03,"Mobile Wallet",Completed,350,2,12
+1191,2026-03-17,"Mobile Wallet",Pending,289,1,4
+1192,2026-06-21,"Credit Card",Completed,119,1,8
+1193,2026-06-05,Installment,Completed,70,1,5
+1194,2026-04-26,"Mobile Wallet",Cancelled,138,1,5
+1195,2026-04-16,Cash,Completed,221,1,3
+1196,2026-06-19,Cash,Pending,40,1,7
+1197,2026-06-15," Installment",Pending,40,1,8
+1198,2026-05-18,Installment,Returned,158,1,2
+1199,2026-02-04,Installment,Returned,336,3,16
+1200,2026-05-27,,"   ",163,1,3
